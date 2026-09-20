@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="100%" height="100%">
+  <defs>
+    <linearGradient id="telemetry-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14" />
+      <stop offset="100%" stop-color="#0D1322" />
+    </linearGradient>
+    <linearGradient id="bar-py" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+    <linearGradient id="bar-ts" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <linearGradient id="bar-cpp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+    <linearGradient id="bar-kt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; fill: #00F0FF; letter-spacing: 1.5px; }
+    .metric-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 500; fill: #94A3B8; }
+    .metric-value { font-family: 'SF Mono', Consolas, monospace; font-size: 13px; font-weight: 700; fill: #FFFFFF; }
+    .lang-name { font-family: 'SF Mono', Consolas, monospace; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
+    .lang-pct { font-family: 'SF Mono', Consolas, monospace; font-size: 11px; fill: #94A3B8; }
+  </style>
+
+  <!-- Left Card: GitHub Activity Telemetry -->
+  <g transform="translate(0, 0)">
+    <rect width="585" height="190" rx="10" fill="url(#telemetry-bg)" stroke="#1E293B" stroke-width="1" />
+    
+    <!-- Header -->
+    <g transform="translate(30, 32)">
+      <circle cx="0" cy="0" r="4" fill="#00F0FF" />
+      <text x="12" y="4" class="card-title">GITHUB SYSTEMS TELEMETRY</text>
+    </g>
+
+    <!-- Metrics List -->
+    <g transform="translate(30, 68)">
+      <!-- Row 1 -->
+      <text x="0" y="0" class="metric-label">Total Public Repositories</text>
+      <text x="525" y="0" class="metric-value" text-anchor="end">22 Codebases</text>
+      <line x1="0" y1="12" x2="525" y2="12" stroke="#1E293B" stroke-width="0.8" />
+
+      <!-- Row 2 -->
+      <text x="0" y="32" class="metric-label">Community Stars &amp; Recognition</text>
+      <text x="525" y="32" class="metric-value" text-anchor="end" fill="#60A5FA">17+ Stars</text>
+      <line x1="0" y1="44" x2="525" y2="44" stroke="#1E293B" stroke-width="0.8" />
+
+      <!-- Row 3 -->
+      <text x="0" y="64" class="metric-label">Flagship Systems &amp; Deployments</text>
+      <text x="525" y="64" class="metric-value" text-anchor="end" fill="#818CF8">8 Production Architectures</text>
+      <line x1="0" y1="76" x2="525" y2="76" stroke="#1E293B" stroke-width="0.8" />
+
+      <!-- Row 4 -->
+      <text x="0" y="96" class="metric-label">Automated CI/CD &amp; Test Suites</text>
+      <text x="525" y="96" class="metric-value" text-anchor="end" fill="#10B981">Passing (GitHub Actions)</text>
+    </g>
+  </g>
+
+  <!-- Right Card: Systems Language Distribution -->
+  <g transform="translate(615, 0)">
+    <rect width="585" height="190" rx="10" fill="url(#telemetry-bg)" stroke="#1E293B" stroke-width="1" />
+    
+    <!-- Header -->
+    <g transform="translate(30, 32)">
+      <circle cx="0" cy="0" r="4" fill="#818CF8" />
+      <text x="12" y="4" class="card-title" fill="#818CF8">PRIMARY CODEBASE DISTRIBUTION</text>
+    </g>
+
+    <!-- Language Progress Bars -->
+    <g transform="translate(30, 64)">
+      <!-- Python -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="0" class="lang-name">Python (FastAPI, PyTorch, YOLO, LangGraph)</text>
+        <text x="525" y="0" class="lang-pct" text-anchor="end">48%</text>
+        <rect y="8" width="525" height="6" rx="3" fill="#1E293B" />
+        <rect y="8" width="252" height="6" rx="3" fill="url(#bar-py)" />
+      </g>
+
+      <!-- TypeScript & JavaScript -->
+      <g transform="translate(0, 32)">
+        <text x="0" y="0" class="lang-name">TypeScript / JavaScript (Next.js 15, React, Node)</text>
+        <text x="525" y="0" class="lang-pct" text-anchor="end">32%</text>
+        <rect y="8" width="525" height="6" rx="3" fill="#1E293B" />
+        <rect y="8" width="168" height="6" rx="3" fill="url(#bar-ts)" />
+      </g>
+
+      <!-- C++ & Embedded Systems -->
+      <g transform="translate(0, 64)">
+        <text x="0" y="0" class="lang-name">C++ / C (ROS 2, MAVLink, Visual SLAM, Jetson)</text>
+        <text x="525" y="0" class="lang-pct" text-anchor="end">12%</text>
+        <rect y="8" width="525" height="6" rx="3" fill="#1E293B" />
+        <rect y="8" width="63" height="6" rx="3" fill="url(#bar-cpp)" />
+      </g>
+
+      <!-- Kotlin & SQL -->
+      <g transform="translate(0, 96)">
+        <text x="0" y="0" class="lang-name">Kotlin &amp; SQL (Jetpack Compose, PostgreSQL, PostGIS)</text>
+        <text x="525" y="0" class="lang-pct" text-anchor="end">8%</text>
+        <rect y="8" width="525" height="6" rx="3" fill="#1E293B" />
+        <rect y="8" width="42" height="6" rx="3" fill="url(#bar-kt)" />
+      </g>
+    </g>
+  </g>
+</svg>

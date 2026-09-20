@@ -5,7 +5,7 @@
       <stop offset="100%" stop-color="#111827" />
     </linearGradient>
     <linearGradient id="q-accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="0%" stop-color="#00F0FF" />
       <stop offset="100%" stop-color="#818CF8" />
     </linearGradient>
   </defs>
@@ -20,7 +20,7 @@
   
   <!-- Left: Quote -->
   <g transform="translate(60, 48)">
-    <text x="0" y="0" font-family="Georgia, serif" font-size="54" fill="#38BDF8" opacity="0.25">“</text>
+    <text x="0" y="0" font-family="Georgia, serif" font-size="54" fill="#00F0FF" opacity="0.3">“</text>
     <text x="32" y="8" class="quote-text">Technology is most powerful when it solves real problems for real people.</text>
     <text x="32" y="38" class="author-text">— Daanial Mirza</text>
   </g>
@@ -31,14 +31,14 @@
   <!-- Right: Collaboration Call -->
   <g transform="translate(780, 50)">
     <text x="0" y="0" class="cta-heading">Engineering &amp; Research Collaboration</text>
-    <text x="0" y="24" class="cta-sub">Available for high-impact AI/ML engineering, research, and systems roles.</text>
+    <text x="0" y="24" class="cta-sub">Open for AI/ML engineering, systems research, and high-impact software roles.</text>
     <g transform="translate(0, 44)">
-      <rect width="140" height="30" rx="4" fill="#0284C7" fill-opacity="0.15" stroke="#0284C7" stroke-width="1" />
-      <text x="70" y="19" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" font-size="11" fill="#38BDF8" text-anchor="middle">Connect on LinkedIn</text>
+      <rect width="150" height="30" rx="4" fill="#0284C7" fill-opacity="0.15" stroke="#0284C7" stroke-width="1" />
+      <text x="75" y="19" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" font-size="11" fill="#38BDF8" text-anchor="middle">linkedin/in/daanialbaig</text>
     </g>
-    <g transform="translate(155, 44)">
-      <rect width="140" height="30" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1" />
-      <text x="70" y="19" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" font-size="11" fill="#E2E8F0" text-anchor="middle">Explore Codebases</text>
+    <g transform="translate(165, 44)">
+      <rect width="150" height="30" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="75" y="19" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" font-size="11" fill="#E2E8F0" text-anchor="middle">daanialmirza@gmail.com</text>
     </g>
   </g>
 </svg>

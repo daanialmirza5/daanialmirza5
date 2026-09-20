@@ -204,12 +204,10 @@ Curated production-grade codebases demonstrating deterministic algorithms, graph
 
 ---
 
-### Engineering Standards & Invariants
+### Engineering Standards & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F0FF&icon_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="GitHub Statistics" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F0FF&text_color=94A3B8&border_color=1E293B" alt="Language Distribution" height="150" />
+  <img src="assets/github_telemetry.svg" alt="GitHub Systems Telemetry & Language Distribution" width="100%">
 </div>
 
 <br/>
@@ -223,16 +221,16 @@ Curated production-grade codebases demonstrating deterministic algorithms, graph
 ### Contact & Engineering Collaboration
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daanialmirza5/">
-    <img src="https://img.shields.io/badge/LinkedIn-daanialmirza5-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/daanialbaig/">
+    <img src="https://img.shields.io/badge/LinkedIn-daanialbaig-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/daanialmirza5">
     <img src="https://img.shields.io/badge/GitHub-daanialmirza5-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:daanialmirza5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daanialmirza5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:daanialmirza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-daanialmirza@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
