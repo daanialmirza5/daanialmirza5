@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
   <defs>
-    <!-- Background Canvas Gradients -->
     <linearGradient id="cyber-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#05070C" />
       <stop offset="40%" stop-color="#080C14" />
@@ -8,17 +7,10 @@
       <stop offset="100%" stop-color="#140F28" />
     </linearGradient>
 
-    <!-- Neon Accents -->
     <linearGradient id="neon-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00F0FF" />
       <stop offset="50%" stop-color="#38BDF8" />
       <stop offset="100%" stop-color="#818CF8" />
-    </linearGradient>
-
-    <linearGradient id="neon-purple" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818CF8" />
-      <stop offset="50%" stop-color="#A855F7" />
-      <stop offset="100%" stop-color="#EC4899" />
     </linearGradient>
 
     <linearGradient id="wireframe-glow" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -27,7 +19,6 @@
       <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Mountain Silhouettes -->
     <linearGradient id="cyber-mount-back" x1="50%" y1="0%" x2="50%" y2="100%">
       <stop offset="0%" stop-color="#1E293B" stop-opacity="0.5" />
       <stop offset="100%" stop-color="#090D16" stop-opacity="0.95" />
@@ -37,36 +28,30 @@
       <stop offset="100%" stop-color="#05070C" />
     </linearGradient>
 
-    <!-- Ambient Filters -->
     <filter id="glow-heavy" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="45" result="blur" />
-    </filter>
-    <filter id="glow-subtle" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
     </filter>
   </defs>
 
   <style>
-    .name-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SF Pro Display', sans-serif; font-size: 52px; font-weight: 900; fill: #FFFFFF; letter-spacing: -1.5px; }
-    .role-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; fill: #00F0FF; letter-spacing: 3px; }
-    .hero-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: 400; fill: #94A3B8; line-height: 1.6; }
-    .tag-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
-    .term-title { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 12px; font-weight: 600; fill: #64748B; }
-    .term-cmd { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 12px; fill: #38BDF8; }
+    .name-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SF Pro Display', sans-serif; font-size: 48px; font-weight: 900; fill: #FFFFFF; letter-spacing: -1.5px; }
+    .role-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #00F0FF; letter-spacing: 2px; }
+    .hero-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14.5px; font-weight: 400; fill: #94A3B8; line-height: 1.5; }
+    .term-title { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 11px; font-weight: 600; fill: #64748B; }
+    .term-cmd { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 11.5px; fill: #38BDF8; }
     .term-out { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 11px; fill: #A5B4FC; }
     .term-green { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 11px; fill: #10B981; }
     .handwriting { font-family: 'Segoe Script', 'Caveat', cursive, sans-serif; font-size: 24px; fill: #00F0FF; font-style: italic; }
     .quote-box { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 800; fill: #64748B; letter-spacing: 2px; }
   </style>
 
-  <!-- Background Canvas -->
   <rect width="1200" height="420" fill="url(#cyber-bg)" rx="14" />
 
-  <!-- Ambient Glowing Orbs -->
+  <!-- Ambient Light Orbs -->
   <circle cx="180" cy="120" r="180" fill="#00F0FF" fill-opacity="0.12" filter="url(#glow-heavy)" />
   <circle cx="1020" cy="140" r="220" fill="#8B5CF6" fill-opacity="0.15" filter="url(#glow-heavy)" />
 
-  <!-- Cyber Grid Laser Overlay -->
+  <!-- Cyber Grid -->
   <g opacity="0.04" stroke="#00F0FF" stroke-width="1">
     <line x1="0" y1="60" x2="1200" y2="60" />
     <line x1="0" y1="120" x2="1200" y2="120" />
@@ -83,27 +68,12 @@
     <line x1="1050" y1="0" x2="1050" y2="420" />
   </g>
 
-  <!-- Constellation Nodes & Traces -->
-  <g fill="#00F0FF" opacity="0.5">
-    <circle cx="200" cy="40" r="1.5" />
-    <circle cx="380" cy="75" r="2" />
-    <circle cx="560" cy="30" r="1.5" />
-    <circle cx="720" cy="85" r="2" />
-    <circle cx="890" cy="45" r="2.5" />
-    <circle cx="1080" cy="65" r="1.5" />
-  </g>
-  <g stroke="#00F0FF" stroke-width="0.8" opacity="0.2">
-    <line x1="720" y1="85" x2="890" y2="45" />
-    <line x1="890" y1="45" x2="1080" y2="65" />
-  </g>
-
   <!-- Distant Mountain Terrain -->
   <path d="M 0 420 L 0 300 L 160 220 L 310 270 L 480 180 L 640 250 L 800 150 L 960 220 L 1100 130 L 1200 200 L 1200 420 Z" fill="url(#cyber-mount-back)" />
 
   <!-- Midground Mountain Silhouette -->
   <path d="M 0 420 L 0 340 L 190 260 L 350 310 L 540 220 L 720 280 L 900 180 L 1040 240 L 1160 160 L 1200 210 L 1200 420 Z" fill="url(#cyber-mount-front)" />
 
-  <!-- Glowing Laser Ridge Lines -->
   <path d="M 480 180 L 640 250 L 800 150 L 960 220 L 1100 130" fill="none" stroke="#00F0FF" stroke-width="1.5" opacity="0.4" />
   <path d="M 800 150 L 900 180 L 1040 240" fill="none" stroke="#818CF8" stroke-width="1.8" opacity="0.5" />
 
@@ -115,69 +85,62 @@
     <path d="M -35 15 Q 5 45 85 70" fill="none" stroke="#00F0FF" stroke-width="1.2" stroke-dasharray="3,3" opacity="0.5" />
   </g>
 
-  <!-- Top Right Engineering Slogan -->
+  <!-- Top Right Mission Statement -->
   <g transform="translate(1015, 135)">
-    <text x="0" y="0" class="quote-box">SYSTEMS ARCHITECTURE</text>
-    <text x="0" y="14" class="quote-box">A BRIGHTER TOMORROW</text>
+    <text x="0" y="0" class="quote-box">ORION INNOVATION</text>
+    <text x="0" y="14" class="quote-box">SYSTEMS ENGINEERING</text>
     <line x1="0" y1="22" x2="35" y2="22" stroke="#00F0FF" stroke-width="1.5" opacity="0.8" />
   </g>
 
   <!-- Left Hero Information Body -->
-  <g transform="translate(55, 45)">
+  <g transform="translate(55, 42)">
     <!-- Status Pill Badge -->
     <g transform="translate(0, 0)">
-      <rect width="285" height="26" rx="13" fill="#0A0F1D" stroke="#1E293B" stroke-width="1" />
+      <rect width="325" height="26" rx="13" fill="#0A0F1D" stroke="#1E293B" stroke-width="1" />
       <circle cx="14" cy="13" r="4" fill="#00F0FF">
         <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
       </circle>
-      <text x="26" y="17" class="role-title">AI / ML &amp; SYSTEMS ARCHITECT</text>
+      <text x="26" y="17" class="role-title">SOFTWARE INTERN @ ORION INNOVATION</text>
     </g>
 
     <!-- Main Title -->
-    <g transform="translate(0, 62)">
+    <g transform="translate(0, 60)">
       <text x="0" y="0" class="name-title">Hi, I'm <tspan fill="url(#neon-cyan)">Daanial Mirza</tspan></text>
     </g>
 
     <!-- Sub-heading Focus -->
-    <g transform="translate(0, 96)">
-      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16px" font-weight="600" fill="#E2E8F0">
-        Deterministic AI <tspan fill="#64748B">•</tspan> Graph Reasoning <tspan fill="#64748B">•</tspan> Autonomous Robotics <tspan fill="#64748B">•</tspan> Distributed Systems
+    <g transform="translate(0, 94)">
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15px" font-weight="600" fill="#E2E8F0">
+        AI/ML Engineer <tspan fill="#64748B">•</tspan> Robotics &amp; CV Builder <tspan fill="#64748B">•</tspan> Distributed Systems Architect
       </text>
     </g>
 
-    <!-- Detailed Bio -->
-    <g transform="translate(0, 132)">
-      <text x="0" y="0" class="hero-desc">Engineering mathematically grounded intelligence: from physical edge perception (ROS 2 / Visual SLAM)</text>
-      <text x="0" y="24" class="hero-desc">to multi-agent cyclical research pipelines and physics-informed microgrid digital twins.</text>
+    <!-- Bio -->
+    <g transform="translate(0, 126)">
+      <text x="0" y="0" class="hero-desc">Software Intern at Orion Innovation (India) &amp; final-year AI/ML scholar at SIES GST.</text>
+      <text x="0" y="22" class="hero-desc">Building autonomous systems, evidence-grounded AI graph engines, and edge computer vision.</text>
     </g>
 
-    <!-- Interactive Cyber Terminal Card (Integrated into Hero!) -->
-    <g transform="translate(0, 185)">
-      <!-- Terminal Frame -->
-      <rect width="600" height="155" rx="8" fill="#060911" fill-opacity="0.9" stroke="#1E293B" stroke-width="1" />
+    <!-- Interactive Cyber Terminal Card -->
+    <g transform="translate(0, 180)">
+      <rect width="620" height="165" rx="8" fill="#060911" fill-opacity="0.92" stroke="#1E293B" stroke-width="1" />
       
-      <!-- Terminal Header -->
-      <rect width="600" height="26" rx="8" fill="#0D1322" />
+      <rect width="620" height="26" rx="8" fill="#0D1322" />
       <circle cx="15" cy="13" r="4" fill="#EF4444" />
       <circle cx="30" cy="13" r="4" fill="#F59E0B" />
       <circle cx="45" cy="13" r="4" fill="#10B981" />
-      <text x="65" y="17" class="term-title">daanial@core-node: ~ (zsh)</text>
+      <text x="65" y="17" class="term-title">daanial@orion-systems: ~ (zsh)</text>
 
-      <!-- Terminal Content -->
-      <g transform="translate(18, 48)">
-        <text x="0" y="0" class="term-cmd"><tspan fill="#64748B">$</tspan> daanial.status()</text>
-        <text x="0" y="20" class="term-out">→ Core: <tspan fill="#38BDF8">FastAPI, Next.js 15, PyTorch, PostGIS, ROS 2, Jetson</tspan></text>
-        <text x="0" y="38" class="term-out">→ Invariants: <tspan fill="#10B981">Deterministic Graph Traversal, Zero Hallucination Guardrails</tspan></text>
-        <text x="0" y="56" class="term-green">✔ 1st Prize Winner: RocketRide Buildathon (BidPilot) &amp; ISRO ISRC Qualifier</text>
-        <text x="0" y="76" class="term-cmd"><tspan fill="#64748B">$</tspan> daanial.deploy_flagship_systems() <tspan fill="#00F0FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite">█</animate></tspan></text>
+      <g transform="translate(18, 46)">
+        <text x="0" y="0" class="term-cmd"><tspan fill="#64748B">$</tspan> daanial.experience()</text>
+        <text x="0" y="18" class="term-out">→ Current: <tspan fill="#38BDF8">Software Engineering Intern @ Orion Innovation (India)</tspan></text>
+        <text x="0" y="36" class="term-out">→ Internships: <tspan fill="#818CF8">Robotics / Autonomous Systems &amp; Full-Stack Web Development</tspan></text>
+        <text x="0" y="54" class="term-green">✔ Honors: 1st Prize RocketRide Buildathon (BidPilot) &amp; ISRO ISRC Qualifier</text>
+        <text x="0" y="74" class="term-cmd"><tspan fill="#64748B">$</tspan> daanial.deploy_flagships() <tspan fill="#00F0FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite">█</animate></tspan></text>
       </g>
     </g>
-
   </g>
 
-  <!-- Bottom Accent Wireframe Line -->
   <line x1="30" y1="418" x2="1170" y2="418" stroke="url(#wireframe-glow)" stroke-width="2" />
-
-  <!-- Outer Frame -->
   <rect x="0.5" y="0.5" width="1199" height="419" rx="13.5" fill="none" stroke="#1E293B" stroke-width="1" />
 </svg>

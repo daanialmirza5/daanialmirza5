@@ -16,16 +16,37 @@
 
 ---
 
-### Systems Architecture & Engineering Focus
+### Executive Profile & Systems Thesis
 
 ```text
 Identity:       Daanial Mirza (@daanialmirza5)
+Current Role:   Software Engineering Intern @ Orion Innovation (India)
+Education:      Final Year AI/ML Scholar @ SIES Graduate School of Technology (SIES GST)
 Core Focus:     Deterministic AI • Graph Reasoning • Autonomous Robotics • Distributed Platforms
 Specialization: Mathematical Constraint Engines • Physics-Informed Twins • Real-Time Edge Perception
 Location:       Mumbai, India
 ```
 
-I architect and engineer software systems spanning **graph-based decision engines**, **physics-informed digital twins**, **offline-first healthcare platforms**, and **multi-agent research pipelines**. My focus is on creating deterministic, reliable, and mathematically sound software where AI acts as a grounded reasoning layer rather than an unconstrained black box.
+I architect and engineer software systems spanning **graph-based decision engines**, **physics-informed digital twins**, **offline-first healthcare platforms**, and **multi-agent research pipelines**. Currently engineering software at **Orion Innovation**, with extensive hands-on track record across **robotics / autonomous systems** and **full-stack engineering**.
+
+---
+
+### Professional Experience & Engineering Track Record
+
+| Role / Experience | Organization / Focus | Engineering Scope & Technical Achievements |
+| :--- | :--- | :--- |
+| **Software Engineering Intern** | **Orion Innovation (India)** | Engineering scalable distributed architectures, enterprise graph intelligence workflows, and resilient full-stack systems. |
+| **Robotics & Autonomous Systems Intern** | **Autonomous Systems Research** | Engineered autonomous navigation, Visual SLAM, stereo perception, and AprilTag fiducial tracking on ROS 2, MAVLink, and NVIDIA Jetson for competitive space robotics (ISRO ISRC 2026). |
+| **Full-Stack Web Development Intern** | **Production Web Platforms** | Architected high-concurrency web applications, microservices with FastAPI/Node.js, PostgreSQL/PostGIS spatial databases, and reactive Next.js 15 frontends. |
+| **AI/ML Engineering Scholar** | **SIES Graduate School of Technology** | Final year engineering specialization in Artificial Intelligence, Machine Learning, and Distributed Computing. |
+
+---
+
+### Competitive Engineering & Verified Honors
+
+<div align="center">
+  <img src="assets/achievements_hud.svg" alt="Competitive Engineering & Honors Registry" width="100%">
+</div>
 
 ---
 
@@ -128,14 +149,6 @@ Curated production-grade codebases demonstrating deterministic algorithms, graph
 <p align="right">
   <a href="https://github.com/daanialmirza5?tab=repositories"><b>Index of all 22 active repositories ➔</b></a>
 </p>
-
----
-
-### Competitive Engineering & Verified Honors
-
-<div align="center">
-  <img src="assets/achievements_hud.svg" alt="Competitive Engineering & Honors Registry" width="100%">
-</div>
 
 ---
 
