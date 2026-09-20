@@ -1,266 +1,158 @@
 <div align="center">
 
-<!-- Hero Banner Graphic -->
+<!-- Hero Dashboard Banner -->
 <a href="https://github.com/daanialmirza5">
-  <img src="assets/banner.svg" alt="Daanial Mirza - AI/ML & Software Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Daanial Mirza - AI/ML Engineer & Systems Builder" width="100%">
 </a>
 
 <br/>
 
-<!-- Quick Navigation Pill Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/daanialmirza5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/daanialmirza5?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-22_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  &nbsp;
-  <a href="#-flagship-engineering-systems">
-    <img src="https://img.shields.io/badge/Featured_Projects-Explore-38BDF8?style=for-the-badge&logo=codeforces&logoColor=black" alt="Projects" />
-  </a>
-  &nbsp;
-  <a href="#-verified-achievements--honors">
-    <img src="https://img.shields.io/badge/Achievements-3_Major_Milestones-818CF8?style=for-the-badge&logo=star&logoColor=white" alt="Achievements" />
-  </a>
-</p>
+<!-- Quick Metrics Ribbon Widget -->
+<a href="https://github.com/daanialmirza5?tab=repositories">
+  <img src="assets/stats_ribbon.svg" alt="Engineering Metrics & Highlights" width="100%">
+</a>
 
 </div>
 
 ---
 
-### 👤 Profile Overview & Engineering Identity
+### Overview & Architecture Focus
 
-```yaml
-Name: Daanial Mirza
-Location: Mumbai, India
-Role: AI/ML Engineer • Software Engineer • Robotics & CV Builder
-Core Focus: Deterministic AI, Graph Intelligence, Autonomous Systems & Edge AI
-Motto: "Ideas ➔ Code ➔ Impact"
+```text
+Identity:       Daanial Mirza (@daanialmirza5)
+Core Focus:     Deterministic AI Systems • Graph-Native Engines • Autonomous Robotics • Full-Stack
+Engineering:    Mathematical Constraint Reasoning • Physics-Informed Twins • Real-Time Edge Inference
+Location:       Mumbai, India
 ```
 
-> **I build scalable, deterministic systems and AI-powered products that solve real-world problems.**  
-> Specializing in **autonomous robotics & computer vision**, **evidence-grounded AI & graph reasoning**, **physics-informed digital twins**, and **resilient full-stack applications**.
+I design and build software systems spanning **graph-based decision engines**, **physics-informed digital twins**, **offline-first healthcare architectures**, and **multi-agent research pipelines**. My focus is on creating deterministic, reliable, and mathematically sound software where AI acts as a grounded reasoning layer rather than an unconstrained black box.
 
 ---
 
-### 📊 Verified Profile Highlights & Statistics
+### Tech Stack & Engineering Capabilities
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/📦_Repositories-22_Public_Repos-0F172A?style=for-the-badge&labelColor=0284C7&color=0F172A" alt="Repos" /><br/>
-        <sub><b>Active Codebases</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/⭐_Total_Stars-17+_Project_Stars-0F172A?style=for-the-badge&labelColor=6366F1&color=0F172A" alt="Stars" /><br/>
-        <sub><b>Community Verified</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/🏆_Hackathons-1st_Prize_&_Finalist-0F172A?style=for-the-badge&labelColor=8B5CF6&color=0F172A" alt="Competitions" /><br/>
-        <sub><b>Competitive Engineering</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/🛰️_Robotics-ISRO_ISRC_2026-0F172A?style=for-the-badge&labelColor=EC4899&color=0F172A" alt="Robotics" /><br/>
-        <sub><b>Space Robotics Qualifier</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/⚡_Systems-Graph_&_Edge_AI-0F172A?style=for-the-badge&labelColor=10B981&color=0F172A" alt="Systems" /><br/>
-        <sub><b>Deterministic Architecture</b></sub>
-      </td>
-    </tr>
-  </table>
+
+| Technical Domain | Tooling, Frameworks & Core Systems |
+| :--- | :--- |
+| **Core Languages** | `Python 3.12` · `C++` · `C` · `TypeScript` · `JavaScript` · `Kotlin` · `SQL` |
+| **AI, Vision & Agents** | `PyTorch` · `TensorFlow` · `OpenCV` · `YOLO` · `LangGraph` · `scikit-learn` · `Qdrant` · `ChromaDB` |
+| **Autonomous Systems** | `ROS 2` · `MAVLink` · `Visual SLAM` · `NVIDIA Jetson` · `Pixhawk` · `Linux Embedded` |
+| **Backend & Architecture** | `FastAPI` · `Next.js (App Router)` · `Express` · `Node.js` · `Celery` · `WebSockets` |
+| **Databases & Storage** | `PostgreSQL` · `PostGIS` · `Prisma ORM` · `Drizzle ORM` · `SQLite` · `Redis` · `Firebase` |
+| **Frontend & Mobile** | `React 18` · `Next.js 15` · `Tailwind CSS` · `Jetpack Compose` · `Expo / React Native` |
+| **DevOps & Verification** | `Docker` · `Git` · `GitHub Actions CI/CD` · `Vitest` · `pytest` · `Linux Tooling` |
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&border_color=1E293B" alt="Daanial's GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Top Languages" height="150" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,kotlin,postgres,sqlite,redis,fastapi,nextjs,react,tailwind,docker,git,linux,pytorch,tensorflow,opencv,ros&theme=dark" alt="Technical Skills Grid" />
 </div>
 
 ---
 
-### 🧰 Tech Stack & Engineering Tooling
+### Featured Systems & Flagship Codebases
 
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
-| **AI, ML & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO_Inference-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square&logo=diagram-next&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white) |
-| **Autonomous Systems & Robotics** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![MAVLink](https://img.shields.io/badge/MAVLink-007ACC?style=flat-square&logo=drone&logoColor=white) ![Jetson / Edge AI](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Visual SLAM](https://img.shields.io/badge/Visual_SLAM-4B5563?style=flat-square&logo=apacherocketmq&logoColor=white) |
-| **Backend & Architecture** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
-| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Expo](https://img.shields.io/badge/Expo_/_React_Native-000020?style=flat-square&logo=expo&logoColor=white) |
-| **DevOps & Verification** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
-
-</div>
-
----
-
-### ⭐ Flagship Engineering Systems
-
-```
-Curated production-grade codebases demonstrating architectural depth, real-world usefulness, and mathematical rigor.
+```text
+Production-grade architectures demonstrating deterministic algorithms, graph theory, and edge deployment.
 ```
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/InspectEdge">🔍 InspectEdge</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/InspectEdge">InspectEdge</a> <code>Public</code></h4>
       <p><b>Edge AI Industrial Defect Detection & Quality Control System</b></p>
       <p>Real-time edge YOLO inference pipeline with transparent decision policies, calibrated defect confidence scoring, and low-latency industrial analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Edge_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/InspectEdge"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python 3.12</code> • <code>YOLO</code> • <code>FastAPI</code> • <code>OpenCV</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/InspectEdge"><b>Source Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/EcoSynapse-AI">🌿 EcoSynapse AI</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/EcoSynapse-AI">EcoSynapse AI</a> <code>Public</code></h4>
       <p><b>Evidence-Grounded Ecological Decision-Support Platform</b></p>
       <p>Domain-specific environmental intelligence synthesizing scientific literature, knowledge graphs, and verifiable RAG pipelines for biodiversity and land management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Knowledge_Graph-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-38BDF8?style=flat-square" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoSynapse-AI"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python</code> • <code>Knowledge Graph</code> • <code>FastAPI</code> • <code>RAG</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoSynapse-AI"><b>Source Code ➔</b></a></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/EcoLens">🗺️ EcoLens</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/EcoLens">EcoLens</a> <code>Public</code></h4>
       <p><b>Geospatial Environmental Intelligence & Monitoring Platform</b></p>
       <p>High-resolution geospatial analytics platform powered by PostGIS spatial queries, reactive time-series environmental mapping, and real-time sensor ingestion.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoLens"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>TypeScript</code> • <code>PostGIS</code> • <code>Mapbox</code> • <code>FastAPI</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoLens"><b>Source Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/SkillGraph">📊 SkillGraph</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/SkillGraph">SkillGraph</a> <code>Public</code></h4>
       <p><b>Evidence-Based Capability Scoring & Graph Engine</b></p>
       <p>Replaces keyword matching with mathematical graph theory: DAG dependency traversal, half-life decay modeling, and what-if simulation workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Graph_Theory-6366F1?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/SkillGraph"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Graph Theory</code> • <code>React</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/SkillGraph"><b>Source Code ➔</b></a></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/gridmind">⚡ GridMind</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/gridmind">GridMind</a> <code>Public</code></h4>
       <p><b>Physics-Informed Building Digital Twin & Optimization Engine</b></p>
       <p>Linear programming dispatch optimization for battery storage under dynamic tariffs, telemetry anomaly detection, and building energy modeling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Digital_Twin-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/gridmind"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Digital Twin</code> • <code>Next.js</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/gridmind"><b>Source Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/triprescue">✈️ TripRescue</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/triprescue">TripRescue</a> <code>Public</code></h4>
       <p><b>Explainable Multi-Leg Disruption Recovery Engine</b></p>
       <p>Models complex multi-segment itineraries as a DAG, evaluates cascade delay propagation, and solves Pareto-optimal multi-objective rerouting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/triprescue"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>React 18</code> • <code>TypeScript</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/triprescue"><b>Source Code ➔</b></a></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/deep-research-ai">🔬 Deep Research AI</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/deep-research-ai">Deep Research AI</a> <code>Public</code></h4>
       <p><b>Multi-Agent Cyclic Research Engine with Citation Grounding</b></p>
       <p>10-agent cyclical LangGraph pipeline orchestrating autonomous planning, web retrieval, cross-source fact-checking, and grounded report synthesis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/ChromaDB-FC6A03?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/deep-research-ai"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python</code> • <code>LangGraph</code> • <code>ChromaDB</code> • <code>FastAPI</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/deep-research-ai"><b>Source Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/Rag-forge-ai">🛠️ RAG Forge AI</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/Rag-forge-ai">RAG Forge AI</a> <code>Public</code></h4>
       <p><b>Multi-Tenant RAG SaaS Platform with Hybrid Search</b></p>
       <p>Hybrid semantic dense + sparse BM25 retrieval with Reciprocal Rank Fusion (RRF), cross-encoder neural reranking, and LangGraph orchestration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      </p>
-      <p>
-        ⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/Rag-forge-ai"><b>Source Code ➔</b></a>
-      </p>
+      <p><code>Python</code> • <code>Qdrant</code> • <code>FastAPI</code> • <code>Next.js</code></p>
+      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/Rag-forge-ai"><b>Source Code ➔</b></a></p>
     </td>
   </tr>
 </table>
 
 <p align="right">
-  <a href="https://github.com/daanialmirza5?tab=repositories"><b>Explore all 22 active repositories ➔</b></a>
+  <a href="https://github.com/daanialmirza5?tab=repositories"><b>View all 22 active repositories ➔</b></a>
 </p>
 
 ---
 
-### 🏆 Verified Achievements & Honors
+### Honors & Competitive Engineering
 
+```text
+Verified competitive accomplishments, hackathon victories, and technical milestone evaluations.
 ```
-Real competitive accomplishments, hackathon victories, and engineering milestones.
-```
 
-- 🥇 **First Prize — RocketRide Buildathon (Mumbai Edition)**  
-  *Team HackHer secured 1st Place (29 August 2026)* for **BidPilot** — an AI-powered tender & RFP document intelligence platform with grounded multi-criteria analysis.
-
-- 🛰️ **Elimination Round Qualifier — ISRO Indian Space Robotics Challenge (University 2026)**  
-  *ISRO ISRC 2026* — Engineered autonomous navigation, Visual SLAM, stereo vision, LiDAR integration, and AprilTag fiducial detection on ROS 2 and Jetson/Pixhawk architectures.
-
-- 🏅 **National Finalist — Smart India Hackathon (SIH 2025)**  
-  Selected as a national finalist among top engineering teams across India for designing and deploying high-impact public intelligence software.
+| Competition / Milestone | Organization / Venue | Distinction & Engineering Scope |
+| :--- | :--- | :--- |
+| **RocketRide Buildathon (Mumbai Edition)** | RocketRide / Tech Community | **First Prize (1st Place Winner)** — *Team HackHer (Aug 29, 2026)* for **BidPilot**, an AI tender intelligence engine with multi-criteria analysis. |
+| **ISRO Space Robotics Challenge (ISRC 2026)** | Indian Space Research Organisation | **Elimination Round Qualifier** — Autonomous navigation, Visual SLAM, stereo vision, and AprilTag fiducial detection on ROS 2 and Jetson. |
+| **Smart India Hackathon (SIH 2025)** | Ministry of Education, Govt. of India | **National Finalist** — Engineered scalable public intelligence software selected among top engineering teams nationwide. |
 
 ---
 
-### 🗂️ Systematic Project Architecture Directory
+### Systematic Architecture Directory
 
 <details open>
-<summary><b>🤖 Artificial Intelligence, Agents & Multi-Tenant SaaS</b></summary>
+<summary><b>Artificial Intelligence, Multi-Agent Systems & Information Retrieval</b></summary>
 <br/>
 
 - **[Deep Research AI](https://github.com/daanialmirza5/deep-research-ai)** — 10-agent cyclical LangGraph pipeline with autonomous citation & fact-checking.
@@ -272,7 +164,7 @@ Real competitive accomplishments, hackathon victories, and engineering milestone
 </details>
 
 <details>
-<summary><b>👁️ Computer Vision, Robotics & Edge Systems</b></summary>
+<summary><b>Computer Vision, Robotics & Edge Systems</b></summary>
 <br/>
 
 - **[InspectEdge](https://github.com/daanialmirza5/InspectEdge)** — Industrial defect detection and quality control with calibrated YOLO inference policies.
@@ -283,7 +175,7 @@ Real competitive accomplishments, hackathon victories, and engineering milestone
 </details>
 
 <details>
-<summary><b>🌍 Environmental, Geospatial & Physics-Informed Intelligence</b></summary>
+<summary><b>Environmental, Geospatial & Physics-Informed Intelligence</b></summary>
 <br/>
 
 - **[EcoSynapse AI](https://github.com/daanialmirza5/EcoSynapse-AI)** — Evidence-grounded ecological decision support and biodiversity knowledge graph.
@@ -294,7 +186,7 @@ Real competitive accomplishments, hackathon victories, and engineering milestone
 </details>
 
 <details>
-<summary><b>💼 Resilient Full-Stack & Concurrency Systems</b></summary>
+<summary><b>Resilient Full-Stack & Concurrency Systems</b></summary>
 <br/>
 
 - **[SkillGraph](https://github.com/daanialmirza5/SkillGraph)** — Graph-native capability scoring platform with DAG dependency traversal and knowledge half-life modeling.
@@ -309,20 +201,39 @@ Real competitive accomplishments, hackathon victories, and engineering milestone
 
 ---
 
-### 🔥 Current Focus & Research Frontiers
+### Activity & Verified Standards
 
-```
-What I am actively building, researching, and optimizing right now:
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8&border_color=1E293B" alt="GitHub Statistics" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Language Statistics" height="150" />
+</div>
 
-- 🤖 **Multi-Agent Orchestration & Deterministic RAG**: Architecting cyclical LangGraph state machines with mathematical constraint boundaries.
-- 👁️ **Edge Computer Vision & Robotics Autonomy**: Real-time perception and Visual SLAM deployment on NVIDIA Jetson & Pixhawk embedded controllers.
-- 🌐 **Offline-First & Graph-Native Architectures**: CRDT synchronization, PostGIS geospatial indexes, and DAG-based dependency solvers.
-- 🚀 **Hackathon & High-Impact Prototyping**: Shipping production-ready, verifiable MVPs under high-velocity constraints.
+<br/>
+
+- **Deterministic Grounding**: AI reasoning systems are strictly constrained by domain validation logic, physics invariants, and verified context.
+- **Zero Fabrication**: Every performance claim, architecture diagram, and metric is backed by executable code in public repositories.
+- **Automated Verification**: End-to-end and unit test suites integrated across CI/CD workflows.
 
 ---
 
-### 💬 Engineering Philosophy
+### Contact & Collaboration
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/daanialmirza5/">
+    <img src="https://img.shields.io/badge/LinkedIn-daanialmirza5-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/daanialmirza5">
+    <img src="https://img.shields.io/badge/GitHub-daanialmirza5-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:daanialmirza5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-daanialmirza5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/daanialmirza5">
@@ -330,26 +241,8 @@ What I am actively building, researching, and optimizing right now:
   </a>
 </div>
 
----
-
-### 📬 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/daanialmirza5/">
-    <img src="https://img.shields.io/badge/LinkedIn-daanialmirza5-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/daanialmirza5">
-    <img src="https://img.shields.io/badge/GitHub-daanialmirza5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:daanialmirza5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daanialmirza5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
-  <sub>Built with precision by <b>Daanial Mirza</b> • Verified data from <a href="https://github.com/daanialmirza5">github.com/daanialmirza5</a></sub>
+  <sub>Engineered by <b>Daanial Mirza</b> • <a href="https://github.com/daanialmirza5">github.com/daanialmirza5</a></sub>
 </div>

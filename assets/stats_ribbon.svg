@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 95" width="100%" height="100%">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; fill: #FFFFFF; }
+    .lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 500; fill: #94A3B8; }
+  </style>
+
+  <!-- Outer Frame -->
+  <rect width="1200" height="95" fill="url(#card-bg)" rx="10" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Metric 1: Repositories -->
+  <g transform="translate(45, 26)">
+    <!-- Book/Repo Icon -->
+    <path d="M 0 4 C 0 1.8 1.8 0 4 0 H 20 V 22 H 4 C 1.8 22 0 20.2 0 18 Z M 0 18 C 0 20.2 1.8 22 4 22 H 20" fill="none" stroke="#38BDF8" stroke-width="1.8" />
+    <g transform="translate(32, 8)">
+      <text x="0" y="0" class="val">22</text>
+      <text x="0" y="18" class="lbl">Repositories</text>
+    </g>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="260" y1="20" x2="260" y2="75" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Metric 2: Project Stars -->
+  <g transform="translate(295, 26)">
+    <!-- Star Icon -->
+    <path d="M 10 0 L 13 7 L 20 8 L 15 13 L 16 20 L 10 16 L 4 20 L 5 13 L 0 8 L 7 7 Z" fill="none" stroke="#60A5FA" stroke-width="1.8" stroke-linejoin="round" />
+    <g transform="translate(32, 8)">
+      <text x="0" y="0" class="val">17+</text>
+      <text x="0" y="18" class="lbl">Project Stars</text>
+    </g>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="495" y1="20" x2="495" y2="75" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Metric 3: Flagship Systems -->
+  <g transform="translate(530, 26)">
+    <!-- Layers / Systems Stack Icon -->
+    <path d="M 10 0 L 20 5 L 10 10 L 0 5 Z M 0 11 L 10 16 L 20 11 M 0 16 L 10 21 L 20 16" fill="none" stroke="#818CF8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    <g transform="translate(32, 8)">
+      <text x="0" y="0" class="val">8+</text>
+      <text x="0" y="18" class="lbl">Flagship Systems</text>
+    </g>
+  </g>
+
+  <!-- Divider 3 -->
+  <line x1="735" y1="20" x2="735" y2="75" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Metric 4: Hackathons & Competitions -->
+  <g transform="translate(770, 26)">
+    <!-- Trophy / Award Icon -->
+    <path d="M 4 2 H 16 V 10 C 16 13.3 13.3 16 10 16 C 6.7 16 4 13.3 4 10 Z M 16 4 H 20 C 20 7 18 9 16 9 M 4 4 H 0 C 0 7 2 9 4 9 M 7 18 H 13 V 22 H 7 Z" fill="none" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    <g transform="translate(32, 8)">
+      <text x="0" y="0" class="val">1st Place &amp; Finalist</text>
+      <text x="0" y="18" class="lbl">Hackathons &amp; Competitions</text>
+    </g>
+  </g>
+
+  <!-- Divider 4 -->
+  <line x1="995" y1="20" x2="995" y2="75" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Metric 5: Learning & Building Status -->
+  <g transform="translate(1025, 26)">
+    <!-- Continuous Activity / Signal Icon -->
+    <circle cx="10" cy="10" r="8" fill="none" stroke="#38BDF8" stroke-width="1.8" />
+    <circle cx="10" cy="10" r="3" fill="#38BDF8" />
+    <g transform="translate(30, 8)">
+      <text x="0" y="0" class="val">Active Builder</text>
+      <text x="0" y="18" class="lbl">High-Velocity Shipping</text>
+    </g>
+  </g>
+</svg>
