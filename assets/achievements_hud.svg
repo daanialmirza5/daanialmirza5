@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="ach-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A12" />
+      <stop offset="100%" stop-color="#0E1322" />
+    </linearGradient>
+    <linearGradient id="gold-hex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+    <linearGradient id="cyan-hex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+    <linearGradient id="purple-hex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .ach-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: 700; fill: #FFFFFF; }
+    .ach-org { font-family: 'SF Mono', Consolas, monospace; font-size: 11px; font-weight: 600; fill: #38BDF8; letter-spacing: 1px; }
+    .ach-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #94A3B8; line-height: 1.4; }
+    .badge-rank { font-family: 'SF Pro Display', sans-serif; font-size: 11px; font-weight: 800; fill: #000000; letter-spacing: 1px; }
+  </style>
+
+  <rect width="1200" height="160" fill="url(#ach-bg)" rx="10" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Award 1: RocketRide Buildathon 1st Prize -->
+  <g transform="translate(40, 24)">
+    <!-- Hexagon -->
+    <polygon points="30,0 60,17 60,53 30,70 0,53 0,17" fill="url(#gold-hex)" />
+    <polygon points="30,4 56,19 56,51 30,66 4,51 4,19" fill="#080C14" />
+    <text x="30" y="32" class="badge-rank" fill="#F59E0B" text-anchor="middle">1ST</text>
+    <text x="30" y="47" class="badge-rank" fill="#F59E0B" font-size="9px" text-anchor="middle">PLACE</text>
+
+    <g transform="translate(75, 8)">
+      <text x="0" y="0" class="ach-org" fill="#F59E0B">ROCKETRIDE BUILDATHON — MUMBAI</text>
+      <text x="0" y="20" class="ach-title">First Prize Winner (BidPilot)</text>
+      <text x="0" y="38" class="ach-desc">Engineered an AI-powered tender &amp; RFP intelligence engine</text>
+      <text x="0" y="54" class="ach-desc">with grounded multi-criteria decision matrices (Aug 29, 2026).</text>
+    </g>
+  </g>
+
+  <line x1="420" y1="20" x2="420" y2="140" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Award 2: ISRO Space Robotics Challenge -->
+  <g transform="translate(450, 24)">
+    <polygon points="30,0 60,17 60,53 30,70 0,53 0,17" fill="url(#cyan-hex)" />
+    <polygon points="30,4 56,19 56,51 30,66 4,51 4,19" fill="#080C14" />
+    <text x="30" y="32" class="badge-rank" fill="#00F0FF" text-anchor="middle">ISRO</text>
+    <text x="30" y="47" class="badge-rank" fill="#00F0FF" font-size="8px" text-anchor="middle">QUALIFIED</text>
+
+    <g transform="translate(75, 8)">
+      <text x="0" y="0" class="ach-org" fill="#00F0FF">ISRO INDIAN SPACE ROBOTICS CHALLENGE</text>
+      <text x="0" y="20" class="ach-title">Elimination Round Qualifier (2026)</text>
+      <text x="0" y="38" class="ach-desc">Autonomous visual navigation, Visual SLAM, stereo vision,</text>
+      <text x="0" y="54" class="ach-desc">and AprilTag fiducial detection on ROS 2 &amp; Jetson.</text>
+    </g>
+  </g>
+
+  <line x1="820" y1="20" x2="820" y2="140" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Award 3: Smart India Hackathon -->
+  <g transform="translate(850, 24)">
+    <polygon points="30,0 60,17 60,53 30,70 0,53 0,17" fill="url(#purple-hex)" />
+    <polygon points="30,4 56,19 56,51 30,66 4,51 4,19" fill="#080C14" />
+    <text x="30" y="32" class="badge-rank" fill="#A855F7" text-anchor="middle">SIH</text>
+    <text x="30" y="47" class="badge-rank" fill="#A855F7" font-size="8px" text-anchor="middle">FINALIST</text>
+
+    <g transform="translate(75, 8)">
+      <text x="0" y="0" class="ach-org" fill="#A855F7">GOVERNMENT OF INDIA (SIH 2025)</text>
+      <text x="0" y="20" class="ach-title">National Finalist</text>
+      <text x="0" y="38" class="ach-desc">Selected among top engineering teams across India</text>
+      <text x="0" y="54" class="ach-desc">for architecting scalable public intelligence platforms.</text>
+    </g>
+  </g>
+</svg>

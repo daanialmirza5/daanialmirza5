@@ -1,31 +1,31 @@
 <div align="center">
 
-<!-- Hero Banner -->
+<!-- Cyber Hero Banner with Integrated Terminal Simulation -->
 <a href="https://github.com/daanialmirza5">
-  <img src="assets/banner.svg" alt="Daanial Mirza - Systems & AI/ML Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Daanial Mirza - AI/ML & Systems Architect" width="100%">
 </a>
 
 <br/>
 
-<!-- Engineering Metrics Ribbon -->
+<!-- High-Tech Telemetry HUD Ribbon -->
 <a href="https://github.com/daanialmirza5?tab=repositories">
-  <img src="assets/stats_ribbon.svg" alt="Systems Metrics" width="100%">
+  <img src="assets/stats_ribbon.svg" alt="Systems Telemetry HUD" width="100%">
 </a>
 
 </div>
 
 ---
 
-### Executive Profile & Engineering Focus
+### Systems Architecture & Engineering Focus
 
 ```text
 Identity:       Daanial Mirza (@daanialmirza5)
-Core Focus:     Deterministic AI • Graph-Native Engines • Autonomous Robotics • Distributed Platforms
-Engineering:    Mathematical Constraint Reasoning • Physics-Informed Twins • Real-Time Edge Perception
+Core Focus:     Deterministic AI • Graph Reasoning • Autonomous Robotics • Distributed Platforms
+Specialization: Mathematical Constraint Engines • Physics-Informed Twins • Real-Time Edge Perception
 Location:       Mumbai, India
 ```
 
-I design and build software systems spanning **graph-based decision engines**, **physics-informed digital twins**, **offline-first healthcare architectures**, and **multi-agent research pipelines**. My focus is on creating deterministic, reliable, and mathematically sound software where AI acts as a grounded reasoning layer rather than an unconstrained black box.
+I architect and engineer software systems spanning **graph-based decision engines**, **physics-informed digital twins**, **offline-first healthcare platforms**, and **multi-agent research pipelines**. My focus is on creating deterministic, reliable, and mathematically sound software where AI acts as a grounded reasoning layer rather than an unconstrained black box.
 
 ---
 
@@ -133,15 +133,9 @@ Curated production-grade codebases demonstrating deterministic algorithms, graph
 
 ### Competitive Engineering & Verified Honors
 
-```text
-Verified competitive accomplishments, hackathon victories, and technical milestone evaluations.
-```
-
-| Milestone / Evaluation | Venue / Organization | Technical Distinction & Engineering Scope |
-| :--- | :--- | :--- |
-| **RocketRide Buildathon (Mumbai Edition)** | RocketRide / Tech Community | **First Prize (1st Place Winner)** — *Team HackHer (Aug 29, 2026)* for **BidPilot**, an AI tender intelligence engine with multi-criteria analysis. |
-| **ISRO Space Robotics Challenge (ISRC 2026)** | Indian Space Research Organisation | **Elimination Round Qualifier** — Autonomous navigation, Visual SLAM, stereo vision, and AprilTag fiducial detection on ROS 2 and Jetson. |
-| **Smart India Hackathon (SIH 2025)** | Ministry of Education, Govt. of India | **National Finalist** — Engineered scalable public intelligence software selected among top engineering teams nationwide. |
+<div align="center">
+  <img src="assets/achievements_hud.svg" alt="Competitive Engineering & Honors Registry" width="100%">
+</div>
 
 ---
 
@@ -200,9 +194,9 @@ Verified competitive accomplishments, hackathon victories, and technical milesto
 ### Engineering Standards & Invariants
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8&border_color=1E293B" alt="GitHub Statistics" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F0FF&icon_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="GitHub Statistics" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Language Distribution" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F0FF&text_color=94A3B8&border_color=1E293B" alt="Language Distribution" height="150" />
 </div>
 
 <br/>
