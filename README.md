@@ -1,27 +1,27 @@
 <div align="center">
 
-<!-- Hero Dashboard Banner -->
+<!-- Hero Banner -->
 <a href="https://github.com/daanialmirza5">
-  <img src="assets/banner.svg" alt="Daanial Mirza - AI/ML Engineer & Systems Builder" width="100%">
+  <img src="assets/banner.svg" alt="Daanial Mirza - Systems & AI/ML Engineer" width="100%">
 </a>
 
 <br/>
 
-<!-- Quick Metrics Ribbon Widget -->
+<!-- Engineering Metrics Ribbon -->
 <a href="https://github.com/daanialmirza5?tab=repositories">
-  <img src="assets/stats_ribbon.svg" alt="Engineering Metrics & Highlights" width="100%">
+  <img src="assets/stats_ribbon.svg" alt="Systems Metrics" width="100%">
 </a>
 
 </div>
 
 ---
 
-### Overview & Architecture Focus
+### Executive Profile & Engineering Focus
 
 ```text
 Identity:       Daanial Mirza (@daanialmirza5)
-Core Focus:     Deterministic AI Systems • Graph-Native Engines • Autonomous Robotics • Full-Stack
-Engineering:    Mathematical Constraint Reasoning • Physics-Informed Twins • Real-Time Edge Inference
+Core Focus:     Deterministic AI • Graph-Native Engines • Autonomous Robotics • Distributed Platforms
+Engineering:    Mathematical Constraint Reasoning • Physics-Informed Twins • Real-Time Edge Perception
 Location:       Mumbai, India
 ```
 
@@ -29,119 +29,115 @@ I design and build software systems spanning **graph-based decision engines**, *
 
 ---
 
-### Tech Stack & Engineering Capabilities
+### Technical Capabilities Matrix
 
-<div align="center">
-
-| Technical Domain | Tooling, Frameworks & Core Systems |
+| Domain | Core Tooling & Frameworks |
 | :--- | :--- |
-| **Core Languages** | `Python 3.12` · `C++` · `C` · `TypeScript` · `JavaScript` · `Kotlin` · `SQL` |
-| **AI, Vision & Agents** | `PyTorch` · `TensorFlow` · `OpenCV` · `YOLO` · `LangGraph` · `scikit-learn` · `Qdrant` · `ChromaDB` |
-| **Autonomous Systems** | `ROS 2` · `MAVLink` · `Visual SLAM` · `NVIDIA Jetson` · `Pixhawk` · `Linux Embedded` |
+| **Languages** | `Python 3.12` · `C++` · `C` · `TypeScript` · `JavaScript` · `Kotlin` · `SQL` |
+| **AI, Vision & Reasoning** | `PyTorch` · `TensorFlow` · `OpenCV` · `YOLO` · `LangGraph` · `scikit-learn` · `Qdrant` · `ChromaDB` |
+| **Autonomous Systems & Robotics** | `ROS 2` · `MAVLink` · `Visual SLAM` · `NVIDIA Jetson` · `Pixhawk` · `Linux Embedded` |
 | **Backend & Architecture** | `FastAPI` · `Next.js (App Router)` · `Express` · `Node.js` · `Celery` · `WebSockets` |
-| **Databases & Storage** | `PostgreSQL` · `PostGIS` · `Prisma ORM` · `Drizzle ORM` · `SQLite` · `Redis` · `Firebase` |
-| **Frontend & Mobile** | `React 18` · `Next.js 15` · `Tailwind CSS` · `Jetpack Compose` · `Expo / React Native` |
+| **Databases & Concurrency** | `PostgreSQL` · `PostGIS` · `Prisma ORM` · `Drizzle ORM` · `SQLite` · `Redis` · `Firebase` |
+| **Frontend & Mobile Platforms** | `React 18` · `Next.js 15` · `Tailwind CSS` · `Jetpack Compose` · `Expo / React Native` |
 | **DevOps & Verification** | `Docker` · `Git` · `GitHub Actions CI/CD` · `Vitest` · `pytest` · `Linux Tooling` |
-
-</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,kotlin,postgres,sqlite,redis,fastapi,nextjs,react,tailwind,docker,git,linux,pytorch,tensorflow,opencv,ros&theme=dark" alt="Technical Skills Grid" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,kotlin,postgres,sqlite,redis,fastapi,nextjs,react,tailwind,docker,git,linux,pytorch,tensorflow,opencv,ros&theme=dark" alt="Technical Tooling Grid" />
 </div>
 
 ---
 
-### Featured Systems & Flagship Codebases
+### Flagship Systems Architecture
 
 ```text
-Production-grade architectures demonstrating deterministic algorithms, graph theory, and edge deployment.
+Curated production-grade codebases demonstrating deterministic algorithms, graph theory, and edge deployment.
 ```
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/InspectEdge">InspectEdge</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/InspectEdge">InspectEdge</a> <code>[Public]</code></h4>
       <p><b>Edge AI Industrial Defect Detection & Quality Control System</b></p>
       <p>Real-time edge YOLO inference pipeline with transparent decision policies, calibrated defect confidence scoring, and low-latency industrial analytics.</p>
-      <p><code>Python 3.12</code> • <code>YOLO</code> • <code>FastAPI</code> • <code>OpenCV</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/InspectEdge"><b>Source Code ➔</b></a></p>
+      <p><code>Python 3.12</code> · <code>YOLO</code> · <code>FastAPI</code> · <code>OpenCV</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/InspectEdge"><b>[Repository]</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/EcoSynapse-AI">EcoSynapse AI</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/EcoSynapse-AI">EcoSynapse AI</a> <code>[Public]</code></h4>
       <p><b>Evidence-Grounded Ecological Decision-Support Platform</b></p>
       <p>Domain-specific environmental intelligence synthesizing scientific literature, knowledge graphs, and verifiable RAG pipelines for biodiversity and land management.</p>
-      <p><code>Python</code> • <code>Knowledge Graph</code> • <code>FastAPI</code> • <code>RAG</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoSynapse-AI"><b>Source Code ➔</b></a></p>
+      <p><code>Python</code> · <code>Knowledge Graph</code> · <code>FastAPI</code> · <code>RAG</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoSynapse-AI"><b>[Repository]</b></a></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/EcoLens">EcoLens</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/EcoLens">EcoLens</a> <code>[Public]</code></h4>
       <p><b>Geospatial Environmental Intelligence & Monitoring Platform</b></p>
       <p>High-resolution geospatial analytics platform powered by PostGIS spatial queries, reactive time-series environmental mapping, and real-time sensor ingestion.</p>
-      <p><code>TypeScript</code> • <code>PostGIS</code> • <code>Mapbox</code> • <code>FastAPI</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoLens"><b>Source Code ➔</b></a></p>
+      <p><code>TypeScript</code> · <code>PostGIS</code> · <code>Mapbox</code> · <code>FastAPI</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoLens"><b>[Repository]</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/SkillGraph">SkillGraph</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/SkillGraph">SkillGraph</a> <code>[Public]</code></h4>
       <p><b>Evidence-Based Capability Scoring & Graph Engine</b></p>
       <p>Replaces keyword matching with mathematical graph theory: DAG dependency traversal, half-life decay modeling, and what-if simulation workflows.</p>
-      <p><code>Python</code> • <code>FastAPI</code> • <code>Graph Theory</code> • <code>React</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/SkillGraph"><b>Source Code ➔</b></a></p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>Graph Theory</code> · <code>React</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/SkillGraph"><b>[Repository]</b></a></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/gridmind">GridMind</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/gridmind">GridMind</a> <code>[Public]</code></h4>
       <p><b>Physics-Informed Building Digital Twin & Optimization Engine</b></p>
       <p>Linear programming dispatch optimization for battery storage under dynamic tariffs, telemetry anomaly detection, and building energy modeling.</p>
-      <p><code>Python</code> • <code>FastAPI</code> • <code>Digital Twin</code> • <code>Next.js</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/gridmind"><b>Source Code ➔</b></a></p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>Digital Twin</code> · <code>Next.js</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/gridmind"><b>[Repository]</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/triprescue">TripRescue</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/triprescue">TripRescue</a> <code>[Public]</code></h4>
       <p><b>Explainable Multi-Leg Disruption Recovery Engine</b></p>
       <p>Models complex multi-segment itineraries as a DAG, evaluates cascade delay propagation, and solves Pareto-optimal multi-objective rerouting.</p>
-      <p><code>Python</code> • <code>FastAPI</code> • <code>React 18</code> • <code>TypeScript</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/triprescue"><b>Source Code ➔</b></a></p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>React 18</code> · <code>TypeScript</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/triprescue"><b>[Repository]</b></a></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/deep-research-ai">Deep Research AI</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/deep-research-ai">Deep Research AI</a> <code>[Public]</code></h4>
       <p><b>Multi-Agent Cyclic Research Engine with Citation Grounding</b></p>
       <p>10-agent cyclical LangGraph pipeline orchestrating autonomous planning, web retrieval, cross-source fact-checking, and grounded report synthesis.</p>
-      <p><code>Python</code> • <code>LangGraph</code> • <code>ChromaDB</code> • <code>FastAPI</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/deep-research-ai"><b>Source Code ➔</b></a></p>
+      <p><code>Python</code> · <code>LangGraph</code> · <code>ChromaDB</code> · <code>FastAPI</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/deep-research-ai"><b>[Repository]</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/Rag-forge-ai">RAG Forge AI</a> <code>Public</code></h4>
+      <h4><a href="https://github.com/daanialmirza5/Rag-forge-ai">RAG Forge AI</a> <code>[Public]</code></h4>
       <p><b>Multi-Tenant RAG SaaS Platform with Hybrid Search</b></p>
       <p>Hybrid semantic dense + sparse BM25 retrieval with Reciprocal Rank Fusion (RRF), cross-encoder neural reranking, and LangGraph orchestration.</p>
-      <p><code>Python</code> • <code>Qdrant</code> • <code>FastAPI</code> • <code>Next.js</code></p>
-      <p>⭐ <b>1 Star</b> &nbsp;|&nbsp; ⑂ <b>0 Forks</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/Rag-forge-ai"><b>Source Code ➔</b></a></p>
+      <p><code>Python</code> · <code>Qdrant</code> · <code>FastAPI</code> · <code>Next.js</code></p>
+      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/Rag-forge-ai"><b>[Repository]</b></a></p>
     </td>
   </tr>
 </table>
 
 <p align="right">
-  <a href="https://github.com/daanialmirza5?tab=repositories"><b>View all 22 active repositories ➔</b></a>
+  <a href="https://github.com/daanialmirza5?tab=repositories"><b>Index of all 22 active repositories ➔</b></a>
 </p>
 
 ---
 
-### Honors & Competitive Engineering
+### Competitive Engineering & Verified Honors
 
 ```text
 Verified competitive accomplishments, hackathon victories, and technical milestone evaluations.
 ```
 
-| Competition / Milestone | Organization / Venue | Distinction & Engineering Scope |
+| Milestone / Evaluation | Venue / Organization | Technical Distinction & Engineering Scope |
 | :--- | :--- | :--- |
 | **RocketRide Buildathon (Mumbai Edition)** | RocketRide / Tech Community | **First Prize (1st Place Winner)** — *Team HackHer (Aug 29, 2026)* for **BidPilot**, an AI tender intelligence engine with multi-criteria analysis. |
 | **ISRO Space Robotics Challenge (ISRC 2026)** | Indian Space Research Organisation | **Elimination Round Qualifier** — Autonomous navigation, Visual SLAM, stereo vision, and AprilTag fiducial detection on ROS 2 and Jetson. |
@@ -149,7 +145,7 @@ Verified competitive accomplishments, hackathon victories, and technical milesto
 
 ---
 
-### Systematic Architecture Directory
+### Systems & Architecture Directory
 
 <details open>
 <summary><b>Artificial Intelligence, Multi-Agent Systems & Information Retrieval</b></summary>
@@ -201,12 +197,12 @@ Verified competitive accomplishments, hackathon victories, and technical milesto
 
 ---
 
-### Activity & Verified Standards
+### Engineering Standards & Invariants
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8&border_color=1E293B" alt="GitHub Statistics" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daanialmirza5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8&border_color=1E293B" alt="GitHub Statistics" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Language Statistics" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanialmirza5&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Language Distribution" height="150" />
 </div>
 
 <br/>
@@ -217,7 +213,7 @@ Verified competitive accomplishments, hackathon victories, and technical milesto
 
 ---
 
-### Contact & Collaboration
+### Contact & Engineering Collaboration
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daanialmirza5/">
@@ -237,7 +233,7 @@ Verified competitive accomplishments, hackathon victories, and technical milesto
 
 <div align="center">
   <a href="https://github.com/daanialmirza5">
-    <img src="assets/quote_card.svg" alt="Engineering Philosophy Quote" width="100%">
+    <img src="assets/quote_card.svg" alt="Engineering Philosophy" width="100%">
   </a>
 </div>
 
