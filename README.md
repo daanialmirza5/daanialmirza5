@@ -1,232 +1,175 @@
 <div align="center">
 
-<!-- Cyber Hero Banner with Integrated Terminal Simulation -->
 <a href="https://github.com/daanialmirza5">
-  <img src="assets/banner.svg" alt="Daanial Mirza - AI/ML & Systems Architect" width="100%">
-</a>
-
-<br/>
-
-<!-- High-Tech Telemetry HUD Ribbon -->
-<a href="https://github.com/daanialmirza5?tab=repositories">
-  <img src="assets/stats_ribbon.svg" alt="Systems Telemetry HUD" width="100%">
+  <img src="assets/banner.svg" alt="Daanial Mirza - AI/ML engineering student and software intern" width="100%">
 </a>
 
 </div>
 
 ---
 
-### Executive Profile & Systems Thesis
+### About
 
 ```text
-Identity:       Daanial Mirza (@daanialmirza5)
-Current Role:   Software Engineering Intern @ Orion Innovation (India)
-Education:      Final Year AI/ML Scholar @ SIES Graduate School of Technology (SIES GST)
-Core Focus:     Deterministic AI • Graph Reasoning • Autonomous Robotics • Distributed Platforms
-Specialization: Mathematical Constraint Engines • Physics-Informed Twins • Real-Time Edge Perception
-Location:       Mumbai, India
+Name:       Daanial Mirza (@daanialmirza5)
+Current:    Software Engineering Intern @ Orion Innovation (India)
+Education:  Final-year AI & ML student @ SIES Graduate School of Technology (SIES GST)
+Interests:  RAG and agent systems · Computer vision · Full-stack web and Android apps
+Location:   Mumbai, India
 ```
 
-I architect and engineer software systems spanning **graph-based decision engines**, **physics-informed digital twins**, **offline-first healthcare platforms**, and **multi-agent research pipelines**. Currently engineering software at **Orion Innovation**, with extensive hands-on track record across **robotics / autonomous systems** and **full-stack engineering**.
+I build full-stack applications with Python and TypeScript, with a focus on retrieval-augmented generation, LLM agent pipelines, and decision-support tools that explain how they reach their results. Most of my projects pair a FastAPI backend with a React or Next.js frontend and include automated tests.
 
 ---
 
-### Professional Experience & Engineering Track Record
+### Experience
 
-| Role / Experience | Organization / Focus | Engineering Scope & Technical Achievements |
+| Role | Organization | Period | Work |
+| :--- | :--- | :--- | :--- |
+| **Software Engineer Intern** | **Orion Innovation (India)**, Mumbai | Aug 2026 – present | Three-month internship. |
+| **Web & Android Development Intern** | **DeveloperOnGo Private Limited** | Jun – Jul 2023 | Six-week internship: built responsive web pages, assisted with Android app development in Java / Android Studio, and integrated REST APIs. |
+
+---
+
+### Honors
+
+| Result | Event | Project |
 | :--- | :--- | :--- |
-| **Software Engineering Intern** | **Orion Innovation (India)** | Engineering scalable distributed architectures, enterprise graph intelligence workflows, and resilient full-stack systems. |
-| **Robotics & Autonomous Systems Intern** | **Autonomous Systems Research** | Engineered autonomous navigation, Visual SLAM, stereo perception, and AprilTag fiducial tracking on ROS 2, MAVLink, and NVIDIA Jetson for competitive space robotics (ISRO ISRC 2026). |
-| **Full-Stack Web Development Intern** | **Production Web Platforms** | Architected high-concurrency web applications, microservices with FastAPI/Node.js, PostgreSQL/PostGIS spatial databases, and reactive Next.js 15 frontends. |
-| **AI/ML Engineering Scholar** | **SIES Graduate School of Technology** | Final year engineering specialization in Artificial Intelligence, Machine Learning, and Distributed Computing. |
+| **1st Prize** | RocketRide Buildathon, Mumbai (Aug 2026) | [BidFactory](https://github.com/daanialmirza5/bid-factory-app): AI-assisted tender and RFP analysis |
+| **Top 10** | HackCelestial (Sep 26–27, 2026) | SafarSathi, built as [TripRescue](https://github.com/daanialmirza5/triprescue): travel disruption recovery |
+| **National Finalist** | Smart India Hackathon 2025 | Team project: AI-based autonomous drone solution |
+| **Elimination Round Qualifier** | ISRO Indian Space Robotics Challenge (2026) | Team entry |
 
 ---
 
-### Competitive Engineering & Verified Honors
+### Skills
 
-<div align="center">
-  <img src="assets/achievements_hud.svg" alt="Competitive Engineering & Honors Registry" width="100%">
-</div>
+Listed only where the technology is used in at least one public repository.
 
----
-
-### Technical Capabilities Matrix
-
-| Domain | Core Tooling & Frameworks |
+| Area | Tools |
 | :--- | :--- |
-| **Languages** | `Python 3.12` · `C++` · `C` · `TypeScript` · `JavaScript` · `Kotlin` · `SQL` |
-| **AI, Vision & Reasoning** | `PyTorch` · `TensorFlow` · `OpenCV` · `YOLO` · `LangGraph` · `scikit-learn` · `Qdrant` · `ChromaDB` |
-| **Autonomous Systems & Robotics** | `ROS 2` · `MAVLink` · `Visual SLAM` · `NVIDIA Jetson` · `Pixhawk` · `Linux Embedded` |
-| **Backend & Architecture** | `FastAPI` · `Next.js (App Router)` · `Express` · `Node.js` · `Celery` · `WebSockets` |
-| **Databases & Concurrency** | `PostgreSQL` · `PostGIS` · `Prisma ORM` · `Drizzle ORM` · `SQLite` · `Redis` · `Firebase` |
-| **Frontend & Mobile Platforms** | `React 18` · `Next.js 15` · `Tailwind CSS` · `Jetpack Compose` · `Expo / React Native` |
-| **DevOps & Verification** | `Docker` · `Git` · `GitHub Actions CI/CD` · `Vitest` · `pytest` · `Linux Tooling` |
+| **Languages** | `Python` · `TypeScript` · `JavaScript` · `Kotlin` · `SQL` |
+| **AI / ML** | `LangGraph` · `Qdrant` · `pgvector` · `scikit-learn` · `XGBoost` · `SHAP` · `PyTorch` · `OpenCV` · `Ultralytics YOLO` · `Groq` · `Ollama` |
+| **Backend** | `FastAPI` · `Node.js` · `Express` · `Next.js (App Router)` · `Celery` · `WebSockets` |
+| **Data** | `PostgreSQL` · `PostGIS` · `Prisma` · `Drizzle` · `SQLite` · `Redis` · `Firebase` |
+| **Frontend & mobile** | `React` · `Next.js` · `Tailwind CSS` · `Jetpack Compose` · `Expo / React Native` |
+| **Testing & tooling** | `pytest` · `Vitest` · `Playwright` · `Docker` · `GitHub Actions` · `Git` |
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,kotlin,postgres,sqlite,redis,fastapi,nextjs,react,tailwind,docker,git,linux,pytorch,tensorflow,opencv,ros&theme=dark" alt="Technical Tooling Grid" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,postgres,sqlite,redis,fastapi,nextjs,react,tailwind,docker,git,linux,pytorch,opencv&theme=dark" alt="Skill icons" />
 </div>
 
 ---
 
-### Flagship Systems Architecture
-
-```text
-Curated production-grade codebases demonstrating deterministic algorithms, graph theory, and edge deployment.
-```
+### Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/InspectEdge">InspectEdge</a> <code>[Public]</code></h4>
-      <p><b>Edge AI Industrial Defect Detection & Quality Control System</b></p>
-      <p>Real-time edge YOLO inference pipeline with transparent decision policies, calibrated defect confidence scoring, and low-latency industrial analytics.</p>
-      <p><code>Python 3.12</code> · <code>YOLO</code> · <code>FastAPI</code> · <code>OpenCV</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/InspectEdge"><b>[Repository]</b></a></p>
+      <h4><a href="https://github.com/daanialmirza5/datasentinel">DataSentinel</a></h4>
+      <p><b>Explainable data observability</b></p>
+      <p>Imports datasets as immutable versions, profiles them, runs declarative quality rules, detects schema and statistical drift between versions, and traces downstream impact through a declared lineage graph. Includes a seeded fault-injection lab that scores detectors against hidden ground truth.</p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>TypeScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/EcoSynapse-AI">EcoSynapse AI</a> <code>[Public]</code></h4>
-      <p><b>Evidence-Grounded Ecological Decision-Support Platform</b></p>
-      <p>Domain-specific environmental intelligence synthesizing scientific literature, knowledge graphs, and verifiable RAG pipelines for biodiversity and land management.</p>
-      <p><code>Python</code> · <code>Knowledge Graph</code> · <code>FastAPI</code> · <code>RAG</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoSynapse-AI"><b>[Repository]</b></a></p>
+      <h4><a href="https://github.com/daanialmirza5/ghosttrace">GhostTrace</a></h4>
+      <p><b>Software incident reconstruction</b></p>
+      <p>Normalises JSON/CSV event logs, correlates them through trace ancestry and request IDs, detects error and latency bursts, and ranks root-cause hypotheses with a transparent heuristic score that cites the supporting events.</p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>TypeScript</code></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/EcoLens">EcoLens</a> <code>[Public]</code></h4>
-      <p><b>Geospatial Environmental Intelligence & Monitoring Platform</b></p>
-      <p>High-resolution geospatial analytics platform powered by PostGIS spatial queries, reactive time-series environmental mapping, and real-time sensor ingestion.</p>
-      <p><code>TypeScript</code> · <code>PostGIS</code> · <code>Mapbox</code> · <code>FastAPI</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/EcoLens"><b>[Repository]</b></a></p>
+      <h4><a href="https://github.com/daanialmirza5/triprescue">TripRescue</a></h4>
+      <p><b>Travel disruption recovery for multi-leg trips</b></p>
+      <p>Models an itinerary as a dependency graph, propagates a disruption to downstream legs (traversal, cycle detection, topological ordering), and computes risk, health and refund summaries to rank recovery options.</p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>TypeScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/SkillGraph">SkillGraph</a> <code>[Public]</code></h4>
-      <p><b>Evidence-Based Capability Scoring & Graph Engine</b></p>
-      <p>Replaces keyword matching with mathematical graph theory: DAG dependency traversal, half-life decay modeling, and what-if simulation workflows.</p>
-      <p><code>Python</code> · <code>FastAPI</code> · <code>Graph Theory</code> · <code>React</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/SkillGraph"><b>[Repository]</b></a></p>
+      <h4><a href="https://github.com/daanialmirza5/Rag-forge-ai">RAG Forge AI</a></h4>
+      <p><b>Multi-tenant RAG platform</b></p>
+      <p>LangGraph pipeline with query rewriting, hybrid dense + sparse retrieval on Qdrant, and optional reranking through the Voyage API. Includes an offline evaluation harness that compares dense, BM25 and RRF-fused retrieval with MRR and NDCG on a built-in benchmark set.</p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>Qdrant</code> · <code>LangGraph</code> · <code>Next.js</code></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/gridmind">GridMind</a> <code>[Public]</code></h4>
-      <p><b>Physics-Informed Building Digital Twin & Optimization Engine</b></p>
-      <p>Linear programming dispatch optimization for battery storage under dynamic tariffs, telemetry anomaly detection, and building energy modeling.</p>
-      <p><code>Python</code> · <code>FastAPI</code> · <code>Digital Twin</code> · <code>Next.js</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/gridmind"><b>[Repository]</b></a></p>
+      <h4><a href="https://github.com/daanialmirza5/gridmind">GridMind</a></h4>
+      <p><b>Building energy analytics (synthetic data)</b></p>
+      <p>Demand forecasting, waste and anomaly detection, prioritised recommendations, and a what-if simulator for setpoint, after-hours, lighting and peak-shift changes.</p>
+      <p><code>Python</code> · <code>FastAPI</code> · <code>pandas</code> · <code>Next.js</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/triprescue">TripRescue</a> <code>[Public]</code></h4>
-      <p><b>Explainable Multi-Leg Disruption Recovery Engine</b></p>
-      <p>Models complex multi-segment itineraries as a DAG, evaluates cascade delay propagation, and solves Pareto-optimal multi-objective rerouting.</p>
-      <p><code>Python</code> · <code>FastAPI</code> · <code>React 18</code> · <code>TypeScript</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/triprescue"><b>[Repository]</b></a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/deep-research-ai">Deep Research AI</a> <code>[Public]</code></h4>
-      <p><b>Multi-Agent Cyclic Research Engine with Citation Grounding</b></p>
-      <p>10-agent cyclical LangGraph pipeline orchestrating autonomous planning, web retrieval, cross-source fact-checking, and grounded report synthesis.</p>
-      <p><code>Python</code> · <code>LangGraph</code> · <code>ChromaDB</code> · <code>FastAPI</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/deep-research-ai"><b>[Repository]</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/daanialmirza5/Rag-forge-ai">RAG Forge AI</a> <code>[Public]</code></h4>
-      <p><b>Multi-Tenant RAG SaaS Platform with Hybrid Search</b></p>
-      <p>Hybrid semantic dense + sparse BM25 retrieval with Reciprocal Rank Fusion (RRF), cross-encoder neural reranking, and LangGraph orchestration.</p>
-      <p><code>Python</code> · <code>Qdrant</code> · <code>FastAPI</code> · <code>Next.js</code></p>
-      <p>Stars: <b>1</b> &nbsp;|&nbsp; Forks: <b>0</b> &nbsp;|&nbsp; <a href="https://github.com/daanialmirza5/Rag-forge-ai"><b>[Repository]</b></a></p>
+      <h4><a href="https://github.com/daanialmirza5/AuraAI">AuraAI</a></h4>
+      <p><b>Android multi-agent assistant</b></p>
+      <p>Kotlin / Jetpack Compose app split into 18 Gradle modules (planner, reasoning, memory, tools, plugins), with pluggable cloud and local LLM providers.</p>
+      <p><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>Coroutines</code> · <code>Room</code></p>
     </td>
   </tr>
 </table>
 
 <p align="right">
-  <a href="https://github.com/daanialmirza5?tab=repositories"><b>Index of all 22 active repositories ➔</b></a>
+  <a href="https://github.com/daanialmirza5?tab=repositories"><b>All repositories ➔</b></a>
 </p>
 
 ---
 
-### Systems & Architecture Directory
+### Other projects
 
 <details open>
-<summary><b>Artificial Intelligence, Multi-Agent Systems & Information Retrieval</b></summary>
+<summary><b>AI agents and retrieval</b></summary>
 <br/>
 
-- **[Deep Research AI](https://github.com/daanialmirza5/deep-research-ai)** — 10-agent cyclical LangGraph pipeline with autonomous citation & fact-checking.
-- **[RAG Forge AI](https://github.com/daanialmirza5/Rag-forge-ai)** — Enterprise multi-tenant RAG platform with hybrid dense/sparse search & cross-encoder reranking.
-- **[AI Meeting Follow-Up Agent](https://github.com/daanialmirza5/ai-meeting-followup-agent)** — Meeting intelligence agent extracting structured decisions & generating RFC 5545 iCal follow-ups (Groq / LLaMA-3).
-- **[RakshaCall](https://github.com/daanialmirza5/RakshaCall)** — Privacy-first, client-only real-time scam call protection assistant detecting social engineering in-flight.
-- **[AuraAI](https://github.com/daanialmirza5/AuraAI)** — Autonomous on-device multi-agent assistant for Android across 18 modular Gradle subprojects.
+- **[Deep Research AI](https://github.com/daanialmirza5/deep-research-ai)**: LangGraph pipeline with ten nodes (planner, research, summarizer, fact-checker, writer, reviewer, citation, evaluation, memory and more) that produces cited research reports.
+- **[AI Meeting Follow-Up Agent](https://github.com/daanialmirza5/ai-meeting-followup-agent)**: Extracts decisions and action items from transcripts with LLaMA 3 on Groq and exports follow-ups as RFC 5545 iCalendar files.
+- **[RakshaCall](https://github.com/daanialmirza5/RakshaCall)**: Client-side web app that flags social-engineering cues in a call transcript captured with browser speech recognition. No backend.
 
 </details>
 
 <details>
-<summary><b>Computer Vision, Robotics & Edge Systems</b></summary>
+<summary><b>Computer vision and edge</b></summary>
 <br/>
 
-- **[InspectEdge](https://github.com/daanialmirza5/InspectEdge)** — Industrial defect detection and quality control with calibrated YOLO inference policies.
-- **[AgriSentinel](https://github.com/daanialmirza5/AgriSentinel)** — Intelligent crop inspection and precision-agriculture rover simulation.
-- **[ISRO Space Robotics Stack](https://github.com/daanialmirza5)** — Visual SLAM, ROS 2, MAVLink, AprilTag fiducial tracking, and Jetson/Pixhawk autonomous flight.
-- **[IQOO-MAA-AI (MaAI)](https://github.com/daanialmirza5/IQOO-MAA-AI)** — Offline-first React Native app for frontline healthcare workers with on-device camera anemia screening (OCR/CV).
+- **[InspectEdge](https://github.com/daanialmirza5/InspectEdge)**: Visual inspection workflow (FastAPI + React) with a YOLO inference wrapper and a configurable accept/reject policy. It currently ships with the COCO-pretrained `yolov8n` placeholder, not a trained defect model. A training script is included for a labelled defect dataset.
+- **[AgriSentinel](https://github.com/daanialmirza5/AgriSentinel)**: Simulated field-inspection rover with a crop-monitoring dashboard.
+- **[MaAI (IQOO-MAA-AI)](https://github.com/daanialmirza5/IQOO-MAA-AI)**: Offline-first Expo / React Native app for frontline maternal-health workers, with Tesseract OCR and a colour-ratio pallor heuristic. The heuristic is not a clinically validated model.
 
 </details>
 
 <details>
-<summary><b>Environmental, Geospatial & Physics-Informed Intelligence</b></summary>
+<summary><b>Environment and geospatial</b></summary>
 <br/>
 
-- **[EcoSynapse AI](https://github.com/daanialmirza5/EcoSynapse-AI)** — Evidence-grounded ecological decision support and biodiversity knowledge graph.
-- **[EcoLens](https://github.com/daanialmirza5/EcoLens)** — Geospatial environmental intelligence platform with PostGIS spatial pipelines and Mapbox reactive layers.
-- **[CoolGrid (Webverse)](https://github.com/daanialmirza5/Coolgrid-Webverse)** — Physics-informed urban heat island digital twin modeling canopy mitigation ROI (PINN, XGBoost, Docker).
-- **[GridMind](https://github.com/daanialmirza5/gridmind)** — Microgrid building digital twin with linear programming energy dispatch under dynamic tariffs.
+- **[EcoSynapse AI](https://github.com/daanialmirza5/EcoSynapse-AI)**: Ecological decision support that combines a NetworkX knowledge graph with pgvector retrieval over scientific evidence.
+- **[EcoLens](https://github.com/daanialmirza5/EcoLens)**: Environmental site monitoring with PostGIS spatial queries, Mapbox maps, and rule-based trend and anomaly insights.
+- **[CoolGrid](https://github.com/daanialmirza5/Coolgrid-Webverse)**: Urban heat-island analysis with a physics-informed neural network (PyTorch), XGBoost and SHAP explanations. Built for Webverse 2026.
 
 </details>
 
 <details>
-<summary><b>Resilient Full-Stack & Concurrency Systems</b></summary>
+<summary><b>Full-stack applications</b></summary>
 <br/>
 
-- **[SkillGraph](https://github.com/daanialmirza5/SkillGraph)** — Graph-native capability scoring platform with DAG dependency traversal and knowledge half-life modeling.
-- **[Lifeline OS](https://github.com/daanialmirza5/lifeline-os)** — Offline-first clinical continuity layer with CRDT conflict resolution and encounter graphs.
-- **[TrustLedger](https://github.com/daanialmirza5/trustledger)** — Double-entry financial decision-support intelligence platform for small businesses with runway simulations.
-- **[TripRescue](https://github.com/daanialmirza5/triprescue)** — DAG-based multi-leg travel disruption recovery engine with Pareto-optimal rerouting.
-- **[CivicFlow](https://github.com/daanialmirza5/civicflow)** — GovTech public service navigation platform with deterministic eligibility rule graphs.
-- **[Turfmate](https://github.com/daanialmirza5/Turfmate)** — Sports turf venue booking with transactional row-level slot locking & QR receipts.
-- **[Cricket Auction](https://github.com/daanialmirza5/cricket-auction)** — Real-time WebSocket player auction room with live budget constraints ([Live Demo](https://cricket-auction-cyan.vercel.app)).
+- **[SkillGraph](https://github.com/daanialmirza5/SkillGraph)**: Evidence-based skill scoring with recency weighting, a skill-dependency engine, gap analysis and what-if career simulation.
+- **[Lifeline OS](https://github.com/daanialmirza5/lifeline-os)**: Healthcare continuity prototype with offline sync, optimistic concurrency (version numbers) and conflict detection. Not a medical device.
+- **[TrustLedger](https://github.com/daanialmirza5/trustledger)**: Cash-flow forecasting, runway and what-if scenarios for small businesses, with role-based access control (synthetic data).
+- **[CivicFlow](https://github.com/daanialmirza5/civicflow)**: Public-service navigation with rule-based eligibility checks (synthetic data).
+- **[Turfmate](https://github.com/daanialmirza5/Turfmate)**: Sports venue booking with a double-booking guard and QR receipts. Bookings are currently held in in-memory storage.
+- **[Cricket Auction](https://github.com/daanialmirza5/cricket-auction)**: Real-time player auction room synced through Firebase Realtime Database ([live demo](https://cricket-auction-cyan.vercel.app)).
 
 </details>
 
 ---
 
-### Engineering Standards & Telemetry
-
-<div align="center">
-  <img src="assets/github_telemetry.svg" alt="GitHub Systems Telemetry & Language Distribution" width="100%">
-</div>
-
-<br/>
-
-- **Deterministic Grounding**: AI reasoning systems are strictly constrained by domain validation logic, physics invariants, and verified context.
-- **Zero Fabrication**: Every performance claim, architecture diagram, and metric is backed by executable code in public repositories.
-- **Automated Verification**: End-to-end and unit test suites integrated across CI/CD workflows.
-
----
-
-### Contact & Engineering Collaboration
+### Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daanialbaig/">
     <img src="https://img.shields.io/badge/LinkedIn-daanialbaig-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/daanialmirza5">
-    <img src="https://img.shields.io/badge/GitHub-daanialmirza5-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:daanialmirza@gmail.com">
@@ -237,13 +180,5 @@ Curated production-grade codebases demonstrating deterministic algorithms, graph
 <br/>
 
 <div align="center">
-  <a href="https://github.com/daanialmirza5">
-    <img src="assets/quote_card.svg" alt="Engineering Philosophy" width="100%">
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Engineered by <b>Daanial Mirza</b> • <a href="https://github.com/daanialmirza5">github.com/daanialmirza5</a></sub>
+  <img src="assets/quote_card.svg" alt="Technology is most powerful when it solves real problems for real people." width="100%">
 </div>
