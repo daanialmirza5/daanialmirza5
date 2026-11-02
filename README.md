@@ -44,14 +44,13 @@ At DeveloperOnGo I built responsive web pages, assisted with Android development
 **AI agents and retrieval**
 - [Deep Research AI](https://github.com/daanialmirza5/deep-research-ai): LangGraph pipeline of ten agents (planner, researcher, fact-checker, writer, reviewer, citation and others) that produces cited research reports.
 - [SENTRIX](https://github.com/daanialmirza5/sentrix): Signed role contracts and task-bound credentials for AI agents; the drift-containment engine is still incomplete. [Live demo](https://sentrix-production.up.railway.app).
-- [AI Meeting Follow-Up Agent](https://github.com/daanialmirza5/ai-meeting-followup-agent): Extracts decisions and action items from transcripts with Llama 3 on Groq and exports iCalendar follow-ups.
 - [RakshaCall](https://github.com/daanialmirza5/RakshaCall): Browser-only app that flags social-engineering cues in a live call transcript. [Live demo](https://daanialmirza5.github.io/RakshaCall/).
 - [AuraAI](https://github.com/daanialmirza5/AuraAI): Kotlin / Jetpack Compose Android assistant split into 18 Gradle modules, with pluggable cloud and local LLM providers.
 
 **Computer vision**
 - [InspectEdge](https://github.com/daanialmirza5/InspectEdge): Visual inspection workflow with a YOLO inference wrapper and a configurable accept/reject policy. Ships with a COCO-pretrained placeholder model and a training script for a labelled defect dataset.
 - [AgriSentinel](https://github.com/daanialmirza5/AgriSentinel): Crop-monitoring dashboard with a simulated field-inspection rover.
-- [MaAI](https://github.com/daanialmirza5/IQOO-MAA-AI), team project: Offline-first Expo / React Native app for maternal-health workers, with OCR and a pallor heuristic that is not clinically validated.
+- [MaAI](https://github.com/daanialmirza5/IQOO-MAA-AI): Offline-first Expo / React Native app for maternal-health workers, with OCR and a pallor heuristic that is not clinically validated.
 
 **Systems and reliability**
 - [Riptide](https://github.com/daanialmirza5/riptide): Hackathon project that simulates cascading service failures and compares recovery strategies in a 3D console. [Live demo](https://riptide-production-d8c4.up.railway.app).
