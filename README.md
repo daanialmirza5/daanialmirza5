@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Daanial Mirza, software engineer. Systems that show how they reach their answers." src="assets/banner-light.svg" width="100%">
+  <img alt="Daanial Baig, software engineer. Systems that show how they reach their answers." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:daanialmirza@gmail.com">daanialmirza@gmail.com</a>
 </p>
 
-AI & ML engineering student at **SIES Graduate School of Technology**, Mumbai, and **Software Engineer Intern at Orion Innovation**.
+AI & ML engineering student at **SIES Graduate School of Technology**, Mumbai (Class of 2027), previously a **Software Engineering Intern at Orion Innovation**. Open to a 6-month internship from January 2027.
 
 I build full-stack systems in Python and TypeScript, usually a FastAPI backend with a React or Next.js frontend. My focus is software that shows how it reaches its results: every score, alert or recommendation points at the evidence behind it, and when the evidence is missing, the system says so.
 
@@ -85,7 +85,7 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
-| Software Engineer Intern | Orion Innovation (India), Mumbai | Aug 2026 – present |
+| Software Engineering Intern | Orion Innovation India, Mumbai | Aug – Nov 2026 |
 | Web & Android Development Intern | DeveloperOnGo Private Limited | Jun – Jul 2023 |
 
 ### Honors
@@ -94,8 +94,8 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
 | :--- | :--- | :--- |
 | 1st Prize | RocketRide Buildathon, Mumbai (Aug 2026) | BidFactory, team entry ([repo](https://github.com/daanialmirza5/bid-factory-app)) |
 | Top 10 | HackCelestial (Sep 2026) | SafarSathi, team entry, built on [TripRescue](https://github.com/daanialmirza5/triprescue) |
-| National Finalist | Smart India Hackathon 2025 | Team entry: AI-based autonomous drone solution |
-| Elimination Round Qualifier | ISRO Indian Space Robotics Challenge 2026 | Team entry |
+| National Finalist | Smart India Hackathon 2025, Hardware Edition Grand Finale (Dec 2025) | Team entry: AI-powered autonomous drone (ROS 2, Visual SLAM, NVIDIA Jetson Orin Nano) |
+| Elimination Round Qualifier | ISRO IRoC-U 2026 | Team DROVICE: GPS-denied indoor drone navigation (Visual SLAM, AprilTag localisation, MAVROS) |
 
 ### Toolbox
 
