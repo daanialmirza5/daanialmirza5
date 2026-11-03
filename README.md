@@ -29,7 +29,7 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/daanialmirza5/ghosttrace"><img src="assets/projects/ghosttrace.webp" alt="GhostTrace incident dashboard"></a>
-      <h4><a href="https://github.com/daanialmirza5/ghosttrace">GhostTrace</a></h4>
+      <h4><a href="https://github.com/daanialmirza5/ghosttrace">GhostTrace</a> · <a href="https://ghosttrace-f2xy.onrender.com">live</a></h4>
       Reconstructs software incidents from event logs: correlates events by trace ancestry and request ID, detects error and latency bursts with Poisson tail tests, and ranks root causes with a score that cites its evidence.<br>
       <sub>Python · FastAPI · SQLAlchemy · React</sub>
     </td>
@@ -37,13 +37,13 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/daanialmirza5/datasentinel"><img src="assets/projects/datasentinel.webp" alt="DataSentinel lineage impact view"></a>
-      <h4><a href="https://github.com/daanialmirza5/datasentinel">DataSentinel</a></h4>
+      <h4><a href="https://github.com/daanialmirza5/datasentinel">DataSentinel</a> · <a href="https://datasentinel-demo.onrender.com">live</a></h4>
       Versions datasets, runs quality rules, detects schema and statistical drift (KS, chi-squared, PSI with effect-size floors) and traces downstream impact through a lineage graph. A fault-injection lab scores the detectors against hidden ground truth.<br>
       <sub>Python · FastAPI · pandas · SciPy · React</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/daanialmirza5/agentvault"><img src="assets/projects/agentvault.webp" alt="AgentVault dashboard"></a>
-      <h4><a href="https://github.com/daanialmirza5/agentvault">AgentVault</a></h4>
+      <h4><a href="https://github.com/daanialmirza5/agentvault">AgentVault</a> · <a href="https://agentvault-191i.onrender.com">live</a></h4>
       Sits between an AI agent and its tools: checks each call against a versioned registry and policy, pauses for human approval, records a hash-chained audit trail and replays runs deterministically.<br>
       <sub>Python · FastAPI · SQLAlchemy · React</sub>
     </td>
@@ -68,7 +68,7 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
 
 | Area | Projects |
 | :--- | :--- |
-| **AI agents & retrieval** | [RAGForge](https://github.com/daanialmirza5/Rag-forge-ai): multi-tenant RAG with hybrid retrieval on Qdrant and an IR evaluation harness · [DeepResearch](https://github.com/daanialmirza5/deep-research-ai): ten-agent LangGraph research pipeline with citations · [SENTRIX](https://github.com/daanialmirza5/sentrix): signed role contracts for AI agents ([live](https://sentrix-production.up.railway.app); policy engine in progress) · [SkillGraph](https://github.com/daanialmirza5/SkillGraph): evidence-scored skills and gap analysis · [EcoSynapse](https://github.com/daanialmirza5/EcoSynapse-AI): evidence-grounded ecological decision support |
+| **AI agents & retrieval** | [RAGForge](https://github.com/daanialmirza5/Rag-forge-ai): multi-tenant RAG with hybrid retrieval on Qdrant and an IR evaluation harness · [DeepResearch](https://github.com/daanialmirza5/deep-research-ai): ten-agent LangGraph research pipeline with citations · [SENTRIX](https://github.com/daanialmirza5/sentrix): signed role contracts for AI agents ([live](https://sentrix-production.up.railway.app); policy engine in progress) · [SkillGraph](https://github.com/daanialmirza5/SkillGraph): evidence-scored skills and gap analysis · [EcoSynapse](https://github.com/daanialmirza5/EcoSynapse-AI): evidence-grounded ecological decision support ([live](https://ecosynapse-ai-1.onrender.com)) |
 | **Reliability & research** | [Riptide](https://github.com/daanialmirza5/riptide): cascading-failure forecasting in a live 3D console ([live](https://riptide-production-d8c4.up.railway.app)) · [CoolGrid](https://github.com/daanialmirza5/Coolgrid-Webverse): urban heat analysis with XGBoost, SHAP and a physics-informed network · [GridMind](https://github.com/daanialmirza5/gridmind): building energy analytics · [EcoLens](https://github.com/daanialmirza5/EcoLens): PostGIS environmental monitoring |
 | **Full-stack products** | [Lifeline OS](https://github.com/daanialmirza5/lifeline-os) · [TrustLedger](https://github.com/daanialmirza5/trustledger) · [FoodLoop](https://github.com/daanialmirza5/foodloop) · [CivicFlow](https://github.com/daanialmirza5/civicflow) · [FinShield](https://github.com/daanialmirza5/FinShield) · [BidFactory](https://github.com/daanialmirza5/bid-factory-app) · [Cricket Auction](https://github.com/daanialmirza5/cricket-auction) ([live](https://cricket-auction-cyan.vercel.app)) · [Turfmate](https://github.com/daanialmirza5/Turfmate) |
 | **Vision, robotics & mobile** | [AgriSentinel](https://github.com/daanialmirza5/AgriSentinel): YOLO crop inspection with a simulated rover · [InspectEdge](https://github.com/daanialmirza5/InspectEdge): visual inspection with an explicit accept/reject policy · [RakshaCall](https://github.com/daanialmirza5/RakshaCall): on-device scam-call detection ([live](https://daanialmirza5.github.io/RakshaCall/)) · [MaAI](https://github.com/daanialmirza5/IQOO-MAA-AI): offline-first maternal health app · [Aura](https://github.com/daanialmirza5/AuraAI): modular Android assistant in Kotlin |
