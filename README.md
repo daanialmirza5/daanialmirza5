@@ -22,9 +22,9 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/daanialmirza5/triprescue"><img src="assets/projects/triprescue.webp" alt="TripRescue command center"></a>
-      <h4><a href="https://github.com/daanialmirza5/triprescue">TripRescue</a> · <a href="https://daanialmirza5.github.io/triprescue/">live</a></h4>
-      Models a multi-leg trip as a dependency graph, propagates a disruption to every downstream booking, and ranks recovery plans by cost, time and risk. Deployed end to end: Pages frontend, FastAPI on Render, PostgreSQL.<br>
+      <a href="https://github.com/daanialmirza5/SafarSathi"><img src="assets/projects/safarsathi.webp" alt="SafarSathi traveller dashboard"></a>
+      <h4><a href="https://github.com/daanialmirza5/SafarSathi">SafarSathi</a> · <a href="https://daanialmirza5.github.io/SafarSathi/">live</a></h4>
+      Models a multi-leg trip as a dependency graph, propagates a disruption to every downstream booking, and ranks recovery plans by cost, time and risk. Top 10 at HackCelestial (team entry). 504 backend and 244 frontend tests. Deployed end to end: Pages frontend, FastAPI on Render.<br>
       <sub>React · TypeScript · FastAPI · PostgreSQL</sub>
     </td>
     <td width="50%" valign="top">
@@ -70,7 +70,7 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
 | :--- | :--- |
 | **AI agents & retrieval** | [RAGForge](https://github.com/daanialmirza5/Rag-forge-ai): multi-tenant RAG with hybrid retrieval on Qdrant and an IR evaluation harness · [DeepResearch](https://github.com/daanialmirza5/deep-research-ai): ten-agent LangGraph research pipeline with citations · [SENTRIX](https://github.com/daanialmirza5/sentrix): signed role contracts for AI agents ([live](https://sentrix-production.up.railway.app); policy engine in progress) · [SkillGraph](https://github.com/daanialmirza5/SkillGraph): evidence-scored skills and gap analysis · [EcoSynapse](https://github.com/daanialmirza5/EcoSynapse-AI): evidence-grounded ecological decision support ([live](https://ecosynapse-ai-1.onrender.com)) |
 | **Reliability & research** | [Riptide](https://github.com/daanialmirza5/riptide): cascading-failure forecasting in a live 3D console ([live](https://riptide-production-d8c4.up.railway.app)) · [CoolGrid](https://github.com/daanialmirza5/Coolgrid-Webverse): urban heat analysis with XGBoost, SHAP and a physics-informed network · [GridMind](https://github.com/daanialmirza5/gridmind): building energy analytics · [EcoLens](https://github.com/daanialmirza5/EcoLens): PostGIS environmental monitoring |
-| **Full-stack products** | [Lifeline OS](https://github.com/daanialmirza5/lifeline-os) · [TrustLedger](https://github.com/daanialmirza5/trustledger) · [FoodLoop](https://github.com/daanialmirza5/foodloop) · [CivicFlow](https://github.com/daanialmirza5/civicflow) · [FinShield](https://github.com/daanialmirza5/FinShield) · [BidFactory](https://github.com/daanialmirza5/bid-factory-app) · [Cricket Auction](https://github.com/daanialmirza5/cricket-auction) ([live](https://cricket-auction-cyan.vercel.app)) · [Turfmate](https://github.com/daanialmirza5/Turfmate) |
+| **Full-stack products** | [Lifeline OS](https://github.com/daanialmirza5/lifeline-os) · [TrustLedger](https://github.com/daanialmirza5/trustledger) · [FoodLoop](https://github.com/daanialmirza5/foodloop) · [CivicFlow](https://github.com/daanialmirza5/civicflow) · [FinShield](https://github.com/daanialmirza5/FinShield) · [BidFactory](https://github.com/daanialmirza5/bid-factory-app) ([live](https://bid-factory.onrender.com); 0 of 20 unsupported requirements marked Covered on labelled data) · [Cricket Auction](https://github.com/daanialmirza5/cricket-auction) ([live](https://cricket-auction-cyan.vercel.app)) · [Turfmate](https://github.com/daanialmirza5/Turfmate) |
 | **Vision, robotics & mobile** | [AgriSentinel](https://github.com/daanialmirza5/AgriSentinel): YOLO crop inspection with a simulated rover · [InspectEdge](https://github.com/daanialmirza5/InspectEdge): visual inspection with an explicit accept/reject policy · [RakshaCall](https://github.com/daanialmirza5/RakshaCall): on-device scam-call detection ([live](https://daanialmirza5.github.io/RakshaCall/)) · [MaAI](https://github.com/daanialmirza5/IQOO-MAA-AI): offline-first maternal health app · [Aura](https://github.com/daanialmirza5/AuraAI): modular Android assistant in Kotlin |
 
 ---
@@ -92,8 +92,8 @@ The [portfolio](https://daanialmirza5.github.io) shows every project as an inter
 
 | Result | Event | Project |
 | :--- | :--- | :--- |
-| 1st Prize | RocketRide Buildathon, Mumbai (Aug 2026) | BidFactory, team entry ([repo](https://github.com/daanialmirza5/bid-factory-app)) |
-| Top 10 | HackCelestial (Sep 2026) | SafarSathi, team entry, built on [TripRescue](https://github.com/daanialmirza5/triprescue) |
+| 1st Prize | RocketRide Buildathon, Mumbai (Aug 2026) | BidFactory, team entry ([repo](https://github.com/daanialmirza5/bid-factory-app), [live](https://bid-factory.onrender.com)) |
+| Top 10 | HackCelestial (Sep 2026) | [SafarSathi](https://github.com/daanialmirza5/SafarSathi), team entry |
 | National Finalist | Smart India Hackathon 2025, Hardware Edition Grand Finale (Dec 2025) | Team entry: AI-powered autonomous drone (ROS 2, Visual SLAM, NVIDIA Jetson Orin Nano) |
 | Elimination Round Qualifier | ISRO IRoC-U 2026 | Team DROVICE: GPS-denied indoor drone navigation (Visual SLAM, AprilTag localisation, MAVROS) |
 
